@@ -1,0 +1,1501 @@
+Student ID,Gender,Learning Preference,Level of Education,Semester Type,Preparation Course,CGPA (out of 10),SGPA (out of 10)
+1,Male,Auditory,Masters,Regular,None,5.2,7.61
+2,Male,Auditory,Primary School,Regular,None,8.57,7.09
+3,Female,Auditory,Masters,Backlog,Completed,6.91,8.53
+4,Male,Auditory,High School,Regular,None,5.13,8.07
+5,Female,Visual,High School,Regular,None,8.66,9.76
+6,Male,Visual,High School,Regular,None,7.07,9.15
+7,Female,Auditory,Masters,Regular,Completed,9.93,6.89
+8,Male,Visual,Primary School,Regular,None,5.76,6.6
+9,Female,Visual,High School,Regular,Completed,9.02,9.73
+10,Male,Auditory,Primary School,Regular,None,7.27,7.28
+11,Female,Auditory,Masters,Backlog,Completed,8.08,5.49
+12,Male,Visual,Bachelors,Regular,Completed,8.2,9.97
+13,Female,Auditory,Primary School,Regular,None,6.73,8.13
+14,Female,Auditory,Masters,Regular,Completed,9.2,6.66
+15,Female,Auditory,Masters,Backlog,Completed,8.69,5.51
+16,Male,Visual,Masters,Regular,Completed,8.21,8.44
+17,Male,Auditory,High School,Backlog,Completed,5.34,7.44
+18,Female,Auditory,Masters,Regular,None,6.21,9.74
+19,Male,Auditory,Bachelors,Backlog,None,7.09,8.42
+20,Female,Visual,Masters,Backlog,Completed,9.88,7.39
+21,Female,Auditory,Masters,Backlog,Completed,6.2,5.73
+22,Female,Visual,Primary School,Regular,Completed,8.51,7.66
+23,Female,Auditory,Primary School,Regular,Completed,5.46,9.43
+24,Female,Visual,Bachelors,Backlog,Completed,5.33,8.77
+25,Male,Auditory,High School,Regular,Completed,8.49,6.66
+26,Female,Visual,Primary School,Regular,None,6.45,5.38
+27,Male,Visual,Primary School,Backlog,Completed,6.11,8.24
+28,Female,Visual,Masters,Backlog,Completed,6.46,8.7
+29,Male,Auditory,High School,Regular,Completed,8.5,8.03
+30,Female,Visual,Bachelors,Backlog,None,5.07,9.02
+31,Male,Visual,Bachelors,Backlog,Completed,9.8,6.54
+32,Female,Auditory,High School,Regular,Completed,9.33,5.37
+33,Female,Auditory,Primary School,Regular,Completed,5.15,7.74
+34,Male,Auditory,Bachelors,Backlog,None,9.44,7.67
+35,Female,Auditory,Masters,Regular,None,6.26,9.28
+36,Female,Auditory,Masters,Backlog,None,5.06,5.06
+37,Male,Visual,Primary School,Backlog,None,5.41,9.44
+38,Female,Visual,Bachelors,Regular,Completed,8.82,6.91
+39,Female,Auditory,Primary School,Regular,None,9.44,6.61
+40,Female,Auditory,High School,Regular,Completed,9.08,9.59
+41,Male,Visual,Masters,Backlog,None,5.97,7.3
+42,Female,Auditory,Primary School,Regular,None,8.94,8.68
+43,Male,Visual,Masters,Backlog,Completed,7.66,9.15
+44,Female,Auditory,Bachelors,Backlog,Completed,7.02,6.72
+45,Male,Visual,Masters,Regular,Completed,6.53,9.24
+46,Female,Auditory,Masters,Regular,None,9.98,8.84
+47,Female,Auditory,Masters,Regular,Completed,5.19,5.78
+48,Female,Visual,High School,Regular,None,9.49,6.88
+49,Female,Auditory,Bachelors,Backlog,Completed,9.05,5.69
+50,Female,Auditory,High School,Regular,Completed,8.52,8.47
+51,Male,Auditory,High School,Regular,None,7.94,6.04
+52,Female,Auditory,Bachelors,Regular,None,7.02,5.51
+53,Female,Auditory,Masters,Regular,None,8.71,7.16
+54,Male,Auditory,Bachelors,Backlog,None,8.89,7.91
+55,Male,Auditory,High School,Regular,Completed,6.09,8.61
+56,Female,Visual,Bachelors,Backlog,None,7.56,7.85
+57,Male,Visual,High School,Backlog,None,9.47,9.76
+58,Male,Visual,Masters,Backlog,Completed,7.75,5.05
+59,Male,Auditory,Bachelors,Regular,None,7.46,9.68
+60,Female,Auditory,Primary School,Regular,None,7.71,7.37
+61,Male,Auditory,Bachelors,Backlog,None,6.99,8.37
+62,Male,Visual,High School,Backlog,Completed,7.11,7.6
+63,Female,Auditory,High School,Regular,Completed,5.75,7.87
+64,Male,Auditory,Primary School,Backlog,Completed,9.11,8.68
+65,Male,Auditory,Primary School,Regular,None,5.24,8.47
+66,Male,Auditory,High School,Backlog,Completed,8.54,6.55
+67,Male,Visual,High School,Regular,None,7.43,7.12
+68,Female,Auditory,Bachelors,Backlog,Completed,8.71,6.1
+69,Female,Visual,Primary School,Regular,None,5.77,7.76
+70,Female,Auditory,Masters,Regular,None,7.23,5.22
+71,Female,Visual,Primary School,Backlog,None,8.03,6.43
+72,Male,Auditory,High School,Backlog,None,9.36,8.77
+73,Male,Auditory,Primary School,Regular,None,9.9,5.43
+74,Male,Auditory,Primary School,Backlog,None,5.38,8.42
+75,Female,Auditory,Primary School,Regular,None,9.14,6.16
+76,Male,Visual,High School,Backlog,Completed,5.96,5.19
+77,Female,Visual,Bachelors,Backlog,Completed,9.97,9.94
+78,Female,Visual,High School,Backlog,Completed,9.46,5.03
+79,Female,Visual,High School,Backlog,Completed,9.12,5.85
+80,Female,Auditory,Bachelors,Regular,None,6.09,5.71
+81,Male,Visual,Primary School,Backlog,Completed,5.84,5.49
+82,Female,Auditory,Primary School,Backlog,Completed,6.26,7.45
+83,Female,Visual,High School,Backlog,Completed,5.94,5.27
+84,Female,Visual,Masters,Regular,None,5.7,9.31
+85,Female,Visual,Bachelors,Backlog,Completed,7.67,5.69
+86,Male,Visual,Masters,Backlog,Completed,5.8,8.83
+87,Female,Visual,Masters,Backlog,None,8.14,5.3
+88,Male,Visual,Masters,Backlog,None,6.83,5.84
+89,Male,Visual,High School,Regular,Completed,7.25,5.71
+90,Female,Auditory,High School,Regular,None,7.22,7.68
+91,Male,Auditory,Bachelors,Regular,None,6.23,5.21
+92,Female,Visual,Primary School,Backlog,None,5.73,6.21
+93,Female,Auditory,Bachelors,Regular,None,7.83,7.64
+94,Male,Auditory,Masters,Backlog,Completed,6.81,8.29
+95,Male,Auditory,Masters,Regular,None,7.42,7.81
+96,Female,Auditory,Bachelors,Regular,Completed,8.73,7.99
+97,Female,Visual,Bachelors,Regular,Completed,6.51,7.59
+98,Female,Visual,Primary School,Backlog,None,6.31,9.13
+99,Male,Auditory,Primary School,Regular,Completed,8.4,9.78
+100,Male,Auditory,Primary School,Backlog,None,7.85,8.72
+101,Male,Visual,High School,Regular,Completed,5.97,9.06
+102,Female,Auditory,Masters,Regular,Completed,7.25,5.44
+103,Male,Auditory,Primary School,Backlog,Completed,6.68,8.43
+104,Male,Auditory,High School,Regular,Completed,8.4,8.53
+105,Female,Visual,Masters,Regular,Completed,5.52,6.93
+106,Female,Visual,Masters,Backlog,Completed,6.13,8.79
+107,Male,Visual,Masters,Backlog,Completed,9.18,5.12
+108,Male,Auditory,Masters,Regular,Completed,6.83,6.12
+109,Male,Visual,Primary School,Backlog,None,5.86,7.08
+110,Female,Auditory,Bachelors,Backlog,Completed,7.43,5.73
+111,Female,Visual,High School,Regular,Completed,5.2,6.62
+112,Female,Auditory,Primary School,Regular,Completed,5.01,7.11
+113,Female,Visual,Masters,Backlog,None,8.9,7.26
+114,Male,Auditory,Bachelors,Backlog,Completed,8.72,8.78
+115,Female,Auditory,Primary School,Regular,None,8.3,8.18
+116,Male,Visual,Masters,Regular,None,7.75,9.03
+117,Male,Visual,Masters,Regular,Completed,5.17,6.34
+118,Female,Visual,High School,Backlog,Completed,6.92,6.5
+119,Male,Auditory,Primary School,Regular,None,9.96,8.19
+120,Female,Visual,Bachelors,Regular,Completed,6.72,7.14
+121,Female,Visual,High School,Regular,Completed,7.9,8.47
+122,Female,Visual,Primary School,Backlog,None,7.64,6.36
+123,Male,Auditory,Masters,Regular,None,9.82,9.39
+124,Female,Auditory,Masters,Backlog,None,6.89,9.41
+125,Male,Visual,Bachelors,Backlog,Completed,6.37,8.67
+126,Male,Visual,Masters,Backlog,None,5.52,5.63
+127,Female,Auditory,Primary School,Regular,None,5.57,9.62
+128,Female,Visual,Primary School,Regular,None,5.22,7.46
+129,Male,Auditory,High School,Regular,Completed,9.22,6.41
+130,Female,Auditory,Primary School,Backlog,Completed,5.01,6.54
+131,Male,Visual,High School,Regular,Completed,9.15,6.34
+132,Female,Visual,Masters,Regular,None,9.69,7.91
+133,Male,Visual,High School,Backlog,Completed,5.25,5.34
+134,Male,Visual,High School,Backlog,None,6.82,7.82
+135,Male,Auditory,High School,Backlog,None,5.76,9.68
+136,Female,Auditory,High School,Backlog,None,6.89,7.83
+137,Male,Visual,Bachelors,Regular,None,5.14,9.75
+138,Male,Auditory,Bachelors,Backlog,Completed,7.9,7.53
+139,Male,Visual,High School,Backlog,None,9.79,9.31
+140,Male,Auditory,Primary School,Regular,None,7.21,7.23
+141,Male,Auditory,Primary School,Regular,Completed,9.13,9.92
+142,Female,Visual,Masters,Regular,Completed,5.0,9.47
+143,Female,Visual,Masters,Backlog,Completed,5.77,8.76
+144,Male,Visual,High School,Backlog,None,5.23,5.41
+145,Male,Visual,High School,Regular,None,9.02,7.92
+146,Female,Visual,Primary School,Regular,Completed,9.14,6.77
+147,Female,Auditory,Primary School,Regular,None,5.52,6.94
+148,Female,Visual,Bachelors,Regular,None,5.4,7.8
+149,Male,Visual,High School,Regular,Completed,8.81,7.11
+150,Male,Visual,High School,Regular,Completed,7.75,8.47
+151,Male,Auditory,Bachelors,Regular,Completed,5.15,9.9
+152,Male,Visual,High School,Backlog,None,9.47,9.86
+153,Male,Visual,Primary School,Backlog,Completed,9.5,7.09
+154,Female,Visual,Bachelors,Regular,None,8.55,6.01
+155,Female,Auditory,Bachelors,Backlog,Completed,6.27,5.28
+156,Male,Auditory,Bachelors,Regular,Completed,8.36,9.36
+157,Male,Auditory,Primary School,Regular,None,8.2,7.46
+158,Male,Auditory,Bachelors,Regular,Completed,9.0,7.58
+159,Male,Visual,Primary School,Regular,None,5.63,8.66
+160,Female,Auditory,Bachelors,Backlog,None,5.28,5.71
+161,Male,Auditory,Masters,Regular,Completed,7.26,9.78
+162,Male,Auditory,Masters,Backlog,Completed,5.46,9.75
+163,Female,Auditory,Masters,Backlog,None,7.2,7.99
+164,Female,Auditory,High School,Backlog,None,9.14,9.46
+165,Female,Visual,Primary School,Regular,Completed,7.9,9.75
+166,Female,Auditory,Masters,Regular,None,5.02,8.76
+167,Male,Visual,Masters,Regular,Completed,9.24,8.75
+168,Female,Visual,Primary School,Regular,Completed,9.38,9.89
+169,Female,Auditory,Primary School,Regular,Completed,8.1,7.17
+170,Male,Visual,Masters,Regular,Completed,7.52,9.95
+171,Male,Visual,Masters,Regular,Completed,6.5,6.97
+172,Male,Visual,High School,Regular,Completed,5.02,6.49
+173,Male,Visual,Primary School,Regular,Completed,7.85,8.04
+174,Female,Auditory,Bachelors,Backlog,Completed,5.22,8.48
+175,Female,Auditory,Bachelors,Regular,Completed,7.31,9.97
+176,Male,Visual,High School,Backlog,None,5.31,9.93
+177,Male,Auditory,High School,Backlog,Completed,9.83,8.09
+178,Female,Visual,Primary School,Backlog,None,6.1,5.75
+179,Male,Visual,High School,Backlog,None,7.91,5.77
+180,Female,Auditory,Bachelors,Backlog,None,8.52,7.84
+181,Female,Auditory,Primary School,Regular,Completed,6.15,7.11
+182,Female,Visual,Masters,Regular,None,6.06,5.14
+183,Male,Visual,High School,Backlog,Completed,7.36,9.03
+184,Male,Auditory,Primary School,Backlog,Completed,6.71,5.68
+185,Female,Visual,Bachelors,Regular,None,8.86,5.75
+186,Male,Visual,Bachelors,Backlog,Completed,8.75,5.12
+187,Male,Auditory,Bachelors,Regular,Completed,9.15,7.37
+188,Male,Visual,Masters,Backlog,Completed,6.48,6.35
+189,Female,Visual,High School,Regular,None,9.91,7.52
+190,Female,Visual,Primary School,Backlog,None,6.38,7.32
+191,Male,Visual,Masters,Backlog,Completed,9.61,9.84
+192,Female,Auditory,High School,Backlog,Completed,6.85,5.79
+193,Male,Visual,Bachelors,Regular,None,8.39,8.59
+194,Female,Auditory,High School,Regular,Completed,5.37,8.56
+195,Male,Auditory,Bachelors,Backlog,None,6.4,9.61
+196,Male,Visual,Primary School,Backlog,Completed,7.35,8.6
+197,Female,Auditory,Bachelors,Regular,Completed,7.32,8.47
+198,Male,Auditory,Primary School,Regular,Completed,7.03,6.26
+199,Female,Auditory,Masters,Regular,None,9.33,7.36
+200,Female,Visual,Primary School,Backlog,None,6.74,7.32
+201,Female,Visual,Masters,Backlog,None,6.77,5.02
+202,Male,Visual,Masters,Backlog,None,9.13,9.76
+203,Female,Visual,High School,Regular,Completed,8.04,6.89
+204,Female,Auditory,Primary School,Backlog,Completed,8.8,7.5
+205,Male,Auditory,Bachelors,Backlog,Completed,6.26,6.4
+206,Female,Auditory,Primary School,Regular,None,7.45,6.09
+207,Male,Visual,Primary School,Backlog,None,7.54,6.14
+208,Male,Visual,Masters,Backlog,Completed,9.27,6.64
+209,Female,Visual,Masters,Regular,None,5.1,8.75
+210,Male,Auditory,Primary School,Backlog,Completed,7.57,6.52
+211,Male,Auditory,Masters,Regular,None,5.18,9.81
+212,Female,Auditory,High School,Backlog,None,8.84,8.67
+213,Male,Auditory,Masters,Regular,None,6.97,6.18
+214,Male,Visual,Masters,Regular,None,8.83,8.63
+215,Female,Auditory,Bachelors,Backlog,Completed,5.25,6.85
+216,Female,Auditory,Masters,Backlog,Completed,8.05,6.64
+217,Male,Auditory,Masters,Regular,None,7.02,5.98
+218,Female,Visual,Primary School,Backlog,Completed,5.55,9.59
+219,Female,Auditory,Bachelors,Backlog,None,6.6,6.73
+220,Male,Auditory,Bachelors,Backlog,Completed,8.42,5.69
+221,Male,Auditory,Primary School,Backlog,None,5.25,9.72
+222,Male,Auditory,Primary School,Regular,None,5.56,7.31
+223,Female,Visual,High School,Backlog,Completed,5.09,5.51
+224,Female,Visual,Primary School,Regular,Completed,5.25,5.8
+225,Male,Visual,Primary School,Regular,Completed,6.85,9.44
+226,Male,Auditory,Primary School,Regular,None,6.52,9.82
+227,Male,Visual,High School,Regular,None,6.0,8.79
+228,Male,Visual,Bachelors,Regular,None,5.16,8.46
+229,Female,Visual,Bachelors,Backlog,None,9.72,7.85
+230,Male,Auditory,Primary School,Backlog,Completed,7.17,5.84
+231,Female,Visual,Primary School,Backlog,Completed,5.05,8.02
+232,Female,Visual,Bachelors,Backlog,Completed,8.57,6.38
+233,Male,Visual,Primary School,Backlog,None,6.7,7.98
+234,Male,Auditory,Masters,Regular,Completed,6.28,9.68
+235,Female,Auditory,Bachelors,Regular,Completed,9.67,7.61
+236,Female,Visual,High School,Backlog,None,7.34,8.57
+237,Male,Auditory,Primary School,Regular,None,6.31,8.94
+238,Female,Visual,High School,Backlog,Completed,9.1,8.32
+239,Male,Auditory,Masters,Regular,None,6.11,9.54
+240,Male,Visual,Primary School,Regular,Completed,6.38,10.0
+241,Male,Auditory,High School,Backlog,Completed,9.84,9.97
+242,Female,Auditory,Primary School,Backlog,Completed,6.82,8.73
+243,Male,Auditory,Bachelors,Backlog,None,6.72,9.57
+244,Male,Auditory,Masters,Regular,Completed,6.05,8.14
+245,Male,Visual,High School,Backlog,None,9.09,8.57
+246,Male,Auditory,Primary School,Backlog,Completed,8.63,5.96
+247,Male,Visual,Bachelors,Regular,None,8.55,5.68
+248,Male,Auditory,Masters,Regular,None,7.4,7.08
+249,Female,Auditory,Masters,Backlog,None,5.85,9.07
+250,Female,Auditory,Masters,Regular,None,6.51,8.98
+251,Male,Auditory,High School,Regular,None,5.69,6.92
+252,Female,Visual,High School,Backlog,None,6.3,8.85
+253,Male,Auditory,Masters,Regular,None,7.53,5.61
+254,Female,Auditory,Masters,Regular,Completed,5.44,6.06
+255,Male,Visual,Primary School,Regular,None,8.11,7.69
+256,Male,Visual,Masters,Backlog,None,8.52,6.04
+257,Male,Visual,High School,Backlog,None,6.97,8.09
+258,Male,Auditory,Primary School,Backlog,Completed,6.18,9.96
+259,Female,Auditory,High School,Backlog,Completed,7.07,5.23
+260,Female,Auditory,High School,Backlog,Completed,9.2,8.07
+261,Male,Visual,Bachelors,Regular,None,8.12,8.98
+262,Male,Auditory,Bachelors,Regular,Completed,6.94,8.49
+263,Female,Visual,Primary School,Backlog,Completed,9.19,8.52
+264,Female,Auditory,Primary School,Backlog,Completed,7.63,5.29
+265,Male,Auditory,Primary School,Backlog,Completed,6.25,8.09
+266,Male,Visual,Masters,Regular,Completed,5.34,5.22
+267,Female,Auditory,Bachelors,Backlog,Completed,5.14,5.5
+268,Male,Auditory,Primary School,Backlog,None,9.96,7.23
+269,Male,Visual,Masters,Regular,Completed,6.26,9.67
+270,Male,Auditory,Masters,Backlog,Completed,8.52,7.99
+271,Female,Visual,Masters,Regular,Completed,5.83,7.31
+272,Female,Auditory,Primary School,Backlog,None,9.74,8.63
+273,Male,Visual,Bachelors,Regular,Completed,6.62,7.99
+274,Male,Auditory,Masters,Backlog,None,6.45,5.49
+275,Male,Auditory,High School,Backlog,Completed,5.65,6.95
+276,Female,Auditory,Bachelors,Regular,Completed,9.3,5.87
+277,Male,Auditory,Masters,Backlog,Completed,9.93,5.18
+278,Female,Visual,High School,Backlog,None,6.15,9.48
+279,Male,Auditory,Primary School,Backlog,Completed,8.09,7.92
+280,Male,Visual,Bachelors,Backlog,Completed,8.14,6.36
+281,Female,Visual,Bachelors,Backlog,None,9.12,9.96
+282,Male,Auditory,High School,Regular,None,7.98,5.21
+283,Male,Auditory,Primary School,Backlog,Completed,6.27,9.83
+284,Male,Visual,High School,Regular,Completed,8.0,5.95
+285,Female,Auditory,Primary School,Backlog,Completed,6.81,7.11
+286,Male,Auditory,Masters,Regular,Completed,8.85,9.63
+287,Female,Auditory,Masters,Regular,Completed,6.05,8.75
+288,Female,Visual,Bachelors,Regular,Completed,6.21,8.68
+289,Male,Visual,Bachelors,Backlog,Completed,9.87,6.33
+290,Male,Auditory,Bachelors,Backlog,None,5.87,8.59
+291,Male,Auditory,Primary School,Regular,Completed,8.81,6.69
+292,Male,Visual,High School,Backlog,Completed,7.88,5.09
+293,Female,Auditory,Bachelors,Backlog,Completed,8.58,7.83
+294,Female,Visual,Bachelors,Regular,None,7.06,7.96
+295,Male,Auditory,Bachelors,Backlog,Completed,9.0,6.56
+296,Male,Auditory,Masters,Backlog,Completed,9.08,5.99
+297,Female,Visual,Bachelors,Backlog,None,6.82,9.73
+298,Female,Visual,Masters,Backlog,None,8.73,7.51
+299,Male,Auditory,High School,Backlog,Completed,5.15,9.19
+300,Male,Visual,High School,Backlog,Completed,5.64,6.77
+301,Female,Auditory,High School,Regular,Completed,6.85,8.24
+302,Female,Auditory,Masters,Regular,None,5.83,6.39
+303,Female,Visual,Primary School,Backlog,Completed,8.31,6.32
+304,Female,Auditory,Bachelors,Regular,None,5.01,6.05
+305,Male,Auditory,High School,Backlog,None,8.39,7.73
+306,Female,Auditory,Masters,Backlog,Completed,9.25,5.12
+307,Male,Visual,Primary School,Backlog,Completed,8.81,6.61
+308,Female,Visual,Primary School,Regular,Completed,7.77,9.55
+309,Female,Auditory,Primary School,Backlog,Completed,9.56,8.63
+310,Female,Visual,Masters,Backlog,None,6.44,5.78
+311,Female,Visual,Bachelors,Regular,None,7.98,6.35
+312,Female,Visual,Bachelors,Regular,Completed,8.43,6.94
+313,Male,Auditory,Bachelors,Regular,None,8.35,7.31
+314,Female,Visual,Primary School,Regular,Completed,7.98,7.56
+315,Male,Auditory,High School,Regular,None,9.11,5.69
+316,Male,Auditory,High School,Backlog,None,6.9,8.49
+317,Male,Visual,Primary School,Regular,Completed,7.01,5.66
+318,Female,Visual,Bachelors,Regular,None,6.27,9.22
+319,Female,Auditory,High School,Backlog,Completed,6.94,6.28
+320,Female,Visual,Primary School,Backlog,Completed,5.6,6.2
+321,Male,Visual,High School,Regular,None,6.31,6.45
+322,Male,Visual,Masters,Regular,Completed,6.96,9.97
+323,Female,Visual,Masters,Regular,None,5.19,7.75
+324,Male,Visual,High School,Regular,None,5.4,6.3
+325,Male,Visual,Primary School,Regular,Completed,8.26,7.49
+326,Female,Auditory,High School,Backlog,None,7.08,9.62
+327,Male,Auditory,Primary School,Backlog,Completed,6.47,5.11
+328,Male,Auditory,Primary School,Regular,None,9.4,8.93
+329,Female,Auditory,Bachelors,Backlog,None,5.55,7.6
+330,Female,Auditory,High School,Regular,Completed,7.1,9.3
+331,Male,Auditory,Bachelors,Regular,Completed,8.98,5.12
+332,Male,Auditory,Bachelors,Backlog,Completed,5.18,8.88
+333,Male,Auditory,Primary School,Regular,None,5.32,9.5
+334,Female,Auditory,Masters,Regular,None,8.36,8.79
+335,Female,Visual,High School,Backlog,Completed,6.76,5.82
+336,Female,Visual,Bachelors,Backlog,Completed,6.96,8.83
+337,Male,Auditory,High School,Regular,Completed,9.04,5.42
+338,Female,Visual,Masters,Backlog,Completed,9.23,8.39
+339,Female,Visual,Primary School,Backlog,Completed,9.51,6.17
+340,Female,Visual,Masters,Backlog,None,6.02,9.53
+341,Male,Visual,Primary School,Backlog,Completed,6.3,8.54
+342,Male,Auditory,Bachelors,Regular,Completed,5.2,7.98
+343,Male,Visual,Bachelors,Backlog,None,5.85,8.9
+344,Female,Auditory,Primary School,Regular,None,5.45,7.28
+345,Male,Visual,Primary School,Backlog,None,5.46,6.48
+346,Male,Auditory,Masters,Regular,None,8.11,7.52
+347,Female,Visual,Primary School,Backlog,Completed,8.22,8.75
+348,Female,Auditory,Primary School,Regular,None,9.66,6.29
+349,Male,Visual,Bachelors,Regular,Completed,6.25,5.39
+350,Female,Visual,Masters,Regular,None,8.78,8.27
+351,Female,Visual,Masters,Regular,Completed,8.86,6.21
+352,Female,Auditory,Masters,Regular,None,8.54,6.84
+353,Male,Visual,Primary School,Regular,Completed,6.19,6.45
+354,Female,Visual,Masters,Regular,None,7.35,8.57
+355,Male,Visual,High School,Regular,Completed,8.8,7.07
+356,Female,Visual,High School,Backlog,Completed,9.41,9.04
+357,Female,Visual,Bachelors,Regular,Completed,6.51,8.6
+358,Female,Visual,High School,Backlog,Completed,5.3,7.27
+359,Male,Auditory,Bachelors,Regular,None,9.28,5.92
+360,Female,Auditory,High School,Backlog,None,8.42,9.72
+361,Male,Auditory,Masters,Backlog,None,5.58,9.22
+362,Female,Auditory,High School,Regular,Completed,8.6,5.63
+363,Male,Visual,High School,Regular,Completed,6.94,6.68
+364,Female,Auditory,High School,Backlog,Completed,6.39,9.97
+365,Male,Visual,Masters,Regular,None,9.32,7.03
+366,Female,Visual,Bachelors,Backlog,Completed,6.71,8.14
+367,Female,Visual,Primary School,Backlog,Completed,5.46,5.66
+368,Female,Auditory,Masters,Regular,None,7.16,9.15
+369,Female,Auditory,Masters,Backlog,None,8.27,5.37
+370,Male,Auditory,Primary School,Regular,Completed,7.97,6.0
+371,Female,Visual,Bachelors,Regular,None,9.93,8.43
+372,Female,Visual,Primary School,Backlog,Completed,8.24,9.29
+373,Male,Visual,Primary School,Regular,None,8.03,8.26
+374,Female,Visual,Bachelors,Backlog,None,5.72,6.33
+375,Female,Visual,Masters,Regular,None,6.94,7.41
+376,Female,Visual,Primary School,Backlog,Completed,6.29,9.6
+377,Male,Visual,High School,Regular,None,9.96,6.44
+378,Female,Visual,High School,Backlog,None,7.3,8.62
+379,Male,Auditory,Primary School,Backlog,Completed,5.72,5.92
+380,Female,Visual,Primary School,Backlog,None,7.74,9.0
+381,Female,Auditory,High School,Backlog,Completed,5.98,8.05
+382,Female,Auditory,High School,Regular,None,5.87,8.55
+383,Female,Auditory,Masters,Backlog,None,8.84,8.62
+384,Male,Auditory,Bachelors,Regular,Completed,9.42,9.78
+385,Female,Auditory,Bachelors,Backlog,Completed,5.58,5.08
+386,Male,Auditory,Primary School,Regular,Completed,9.66,7.37
+387,Female,Visual,Bachelors,Regular,None,7.46,8.96
+388,Female,Auditory,Primary School,Regular,Completed,8.54,7.52
+389,Male,Visual,High School,Backlog,Completed,7.03,5.54
+390,Male,Visual,Masters,Regular,None,5.42,8.38
+391,Male,Auditory,High School,Regular,None,5.22,5.65
+392,Female,Auditory,Primary School,Regular,Completed,7.65,7.5
+393,Male,Auditory,Masters,Regular,None,8.35,6.4
+394,Female,Visual,High School,Regular,None,8.28,9.44
+395,Male,Visual,High School,Backlog,None,9.98,7.6
+396,Male,Visual,Bachelors,Backlog,None,5.43,6.32
+397,Male,Auditory,High School,Backlog,None,5.01,5.75
+398,Male,Visual,Primary School,Backlog,Completed,7.5,6.08
+399,Male,Visual,High School,Regular,Completed,5.37,7.76
+400,Male,Visual,Masters,Backlog,Completed,6.99,8.22
+401,Female,Auditory,Primary School,Regular,None,8.4,7.66
+402,Female,Visual,High School,Regular,None,8.33,5.5
+403,Male,Auditory,Bachelors,Backlog,None,6.27,8.72
+404,Male,Auditory,High School,Backlog,Completed,6.98,7.84
+405,Male,Auditory,Masters,Backlog,None,5.84,7.82
+406,Female,Auditory,High School,Regular,None,9.61,6.53
+407,Female,Visual,Bachelors,Backlog,None,6.11,6.8
+408,Male,Visual,Bachelors,Backlog,Completed,9.44,9.2
+409,Female,Visual,Bachelors,Regular,None,9.89,6.29
+410,Male,Visual,Primary School,Regular,None,8.05,7.57
+411,Male,Visual,Masters,Backlog,Completed,7.34,8.3
+412,Female,Auditory,High School,Backlog,Completed,7.74,7.02
+413,Male,Visual,Masters,Regular,Completed,5.37,8.78
+414,Male,Visual,Bachelors,Regular,Completed,9.57,8.86
+415,Male,Visual,High School,Backlog,None,8.31,8.81
+416,Male,Auditory,Bachelors,Backlog,Completed,8.78,9.66
+417,Female,Visual,Primary School,Regular,None,8.23,6.44
+418,Male,Auditory,Bachelors,Regular,None,9.57,8.58
+419,Male,Visual,Primary School,Regular,Completed,9.22,6.97
+420,Female,Auditory,High School,Backlog,Completed,5.73,8.52
+421,Male,Auditory,Bachelors,Backlog,None,6.79,6.64
+422,Female,Auditory,High School,Regular,Completed,7.64,7.22
+423,Female,Auditory,Bachelors,Regular,Completed,5.25,8.43
+424,Female,Visual,Primary School,Regular,Completed,8.67,6.66
+425,Male,Auditory,High School,Regular,None,5.88,7.92
+426,Male,Auditory,Bachelors,Backlog,None,9.34,5.74
+427,Male,Visual,Masters,Backlog,Completed,8.61,7.93
+428,Female,Visual,Bachelors,Backlog,None,6.79,9.56
+429,Female,Auditory,Bachelors,Regular,Completed,9.24,9.75
+430,Female,Auditory,Masters,Backlog,Completed,9.95,7.49
+431,Female,Auditory,Primary School,Backlog,None,7.82,6.49
+432,Male,Visual,Masters,Regular,None,8.77,9.28
+433,Female,Visual,Masters,Regular,Completed,9.7,5.52
+434,Female,Visual,Primary School,Regular,Completed,5.21,8.41
+435,Female,Auditory,Primary School,Regular,Completed,6.41,7.43
+436,Male,Auditory,High School,Regular,Completed,8.74,6.49
+437,Female,Auditory,Primary School,Regular,None,9.91,8.61
+438,Female,Auditory,High School,Backlog,None,7.32,6.55
+439,Female,Visual,High School,Regular,Completed,6.87,5.64
+440,Female,Visual,High School,Regular,Completed,8.94,8.29
+441,Female,Visual,Bachelors,Regular,Completed,9.98,8.86
+442,Male,Auditory,High School,Regular,None,7.14,5.51
+443,Male,Visual,Bachelors,Regular,Completed,6.78,6.94
+444,Male,Auditory,High School,Regular,None,6.26,7.51
+445,Female,Visual,Masters,Backlog,None,6.55,5.84
+446,Female,Auditory,Primary School,Backlog,None,9.35,7.47
+447,Female,Visual,Primary School,Regular,Completed,8.63,9.61
+448,Female,Auditory,Primary School,Backlog,None,8.06,7.54
+449,Female,Visual,Bachelors,Regular,Completed,9.51,5.09
+450,Female,Auditory,Bachelors,Regular,Completed,9.44,8.98
+451,Female,Auditory,Bachelors,Regular,Completed,9.79,6.36
+452,Female,Visual,High School,Backlog,Completed,9.57,7.58
+453,Female,Auditory,High School,Backlog,Completed,5.27,6.69
+454,Male,Visual,Primary School,Regular,None,7.54,8.52
+455,Female,Auditory,Masters,Backlog,Completed,6.14,5.87
+456,Female,Auditory,Primary School,Regular,None,8.51,7.39
+457,Female,Auditory,High School,Regular,Completed,7.32,8.39
+458,Male,Visual,Masters,Backlog,Completed,6.04,6.77
+459,Female,Auditory,High School,Backlog,Completed,5.69,6.37
+460,Female,Auditory,Bachelors,Regular,None,6.7,8.15
+461,Female,Visual,Masters,Regular,Completed,7.05,8.03
+462,Female,Auditory,Primary School,Backlog,None,9.54,8.35
+463,Male,Auditory,Masters,Regular,Completed,8.59,8.04
+464,Female,Auditory,Bachelors,Backlog,Completed,8.17,6.2
+465,Female,Auditory,Masters,Backlog,Completed,9.15,5.5
+466,Male,Auditory,Bachelors,Regular,None,7.55,6.73
+467,Female,Visual,Masters,Regular,None,5.84,5.29
+468,Male,Auditory,Masters,Backlog,None,5.89,5.19
+469,Male,Auditory,Primary School,Backlog,None,8.92,7.79
+470,Female,Visual,High School,Regular,Completed,5.37,5.41
+471,Male,Visual,High School,Regular,None,9.9,5.54
+472,Male,Visual,Primary School,Regular,None,7.74,5.84
+473,Male,Visual,Masters,Backlog,None,7.55,5.9
+474,Male,Auditory,Masters,Regular,Completed,7.26,9.44
+475,Male,Auditory,High School,Backlog,Completed,9.98,6.95
+476,Male,Visual,Masters,Regular,None,6.63,7.0
+477,Female,Auditory,High School,Regular,None,6.53,8.07
+478,Male,Auditory,Masters,Backlog,None,6.5,9.23
+479,Male,Visual,High School,Regular,Completed,8.3,7.82
+480,Female,Visual,Bachelors,Regular,Completed,7.24,8.18
+481,Male,Auditory,Bachelors,Regular,Completed,9.13,6.69
+482,Male,Auditory,Primary School,Regular,Completed,6.64,5.83
+483,Male,Visual,High School,Backlog,None,7.45,8.97
+484,Male,Auditory,High School,Backlog,Completed,6.62,6.12
+485,Male,Auditory,Bachelors,Backlog,Completed,5.51,6.16
+486,Male,Visual,Primary School,Regular,Completed,9.54,7.46
+487,Female,Visual,High School,Backlog,Completed,8.2,9.55
+488,Male,Auditory,Primary School,Backlog,Completed,5.82,8.07
+489,Female,Visual,Bachelors,Backlog,Completed,6.87,9.02
+490,Male,Auditory,High School,Regular,None,7.38,6.82
+491,Female,Auditory,Bachelors,Regular,None,7.74,7.29
+492,Male,Visual,Bachelors,Regular,None,5.35,9.12
+493,Male,Visual,High School,Backlog,None,6.31,5.62
+494,Male,Visual,Masters,Backlog,None,5.91,6.79
+495,Male,Visual,Bachelors,Regular,None,9.78,8.44
+496,Male,Visual,Bachelors,Regular,Completed,6.36,7.84
+497,Male,Visual,Primary School,Regular,None,9.71,5.25
+498,Male,Visual,High School,Backlog,None,7.56,8.5
+499,Female,Visual,Masters,Backlog,None,9.04,8.38
+500,Male,Visual,Masters,Backlog,None,6.06,7.67
+501,Male,Auditory,Primary School,Regular,None,5.57,9.76
+502,Male,Auditory,Bachelors,Regular,None,5.64,7.74
+503,Female,Visual,High School,Regular,None,5.55,9.07
+504,Female,Auditory,High School,Regular,Completed,6.6,5.41
+505,Female,Visual,Bachelors,Regular,Completed,7.98,5.81
+506,Female,Visual,Masters,Regular,None,7.43,8.88
+507,Female,Auditory,High School,Regular,Completed,6.53,8.88
+508,Female,Auditory,Bachelors,Backlog,None,5.07,8.7
+509,Female,Auditory,Primary School,Regular,Completed,8.19,8.38
+510,Female,Visual,Primary School,Backlog,None,5.55,7.97
+511,Male,Visual,Bachelors,Backlog,None,7.38,6.09
+512,Female,Auditory,Bachelors,Regular,None,9.67,6.16
+513,Female,Visual,Primary School,Regular,Completed,8.2,5.46
+514,Male,Visual,Masters,Regular,Completed,9.4,9.12
+515,Male,Auditory,Primary School,Backlog,None,5.08,9.34
+516,Female,Auditory,Primary School,Regular,Completed,7.62,9.08
+517,Male,Visual,Masters,Regular,None,7.6,8.5
+518,Male,Auditory,Bachelors,Regular,Completed,7.06,5.45
+519,Male,Visual,Primary School,Backlog,Completed,6.15,5.09
+520,Female,Visual,Primary School,Regular,Completed,9.18,5.34
+521,Male,Visual,Masters,Regular,Completed,5.54,5.1
+522,Female,Visual,Primary School,Regular,None,5.94,5.99
+523,Female,Auditory,High School,Backlog,Completed,5.99,5.92
+524,Male,Auditory,Masters,Backlog,None,9.35,9.77
+525,Male,Auditory,Bachelors,Backlog,Completed,5.45,7.44
+526,Female,Visual,High School,Backlog,None,9.97,7.72
+527,Female,Visual,Primary School,Backlog,Completed,8.58,6.99
+528,Male,Visual,High School,Regular,None,5.5,8.62
+529,Female,Visual,Bachelors,Backlog,Completed,8.09,8.74
+530,Male,Visual,Primary School,Regular,None,5.51,8.07
+531,Female,Auditory,Primary School,Regular,Completed,5.68,7.41
+532,Female,Visual,Masters,Regular,Completed,7.5,6.96
+533,Male,Auditory,High School,Backlog,None,7.52,7.24
+534,Female,Visual,Bachelors,Backlog,None,9.94,8.62
+535,Female,Visual,Masters,Backlog,None,9.19,7.28
+536,Male,Visual,Primary School,Backlog,Completed,9.24,8.09
+537,Female,Auditory,High School,Backlog,None,9.11,9.43
+538,Male,Auditory,Bachelors,Regular,Completed,7.15,6.89
+539,Female,Auditory,Primary School,Backlog,None,6.28,8.26
+540,Male,Visual,Masters,Backlog,None,7.84,8.88
+541,Male,Visual,Primary School,Regular,None,7.21,6.29
+542,Female,Visual,High School,Backlog,None,9.07,7.93
+543,Male,Auditory,High School,Regular,None,7.39,5.89
+544,Male,Visual,Primary School,Regular,None,5.34,7.31
+545,Female,Visual,Masters,Backlog,None,5.85,9.47
+546,Male,Auditory,Masters,Backlog,None,9.36,8.64
+547,Male,Auditory,Bachelors,Regular,Completed,9.2,5.86
+548,Female,Auditory,Masters,Regular,None,8.34,7.42
+549,Female,Auditory,Primary School,Regular,None,7.85,7.56
+550,Male,Visual,High School,Regular,Completed,6.91,6.31
+551,Male,Visual,Primary School,Backlog,None,8.12,5.03
+552,Male,Auditory,Primary School,Regular,Completed,6.7,6.66
+553,Female,Visual,High School,Regular,None,7.26,9.61
+554,Male,Visual,Bachelors,Regular,Completed,8.93,9.75
+555,Male,Auditory,High School,Regular,None,8.4,8.96
+556,Male,Visual,Masters,Regular,Completed,6.8,5.17
+557,Male,Auditory,High School,Regular,Completed,9.37,7.67
+558,Female,Visual,Bachelors,Backlog,Completed,9.0,7.12
+559,Male,Visual,Bachelors,Regular,None,5.75,9.04
+560,Male,Visual,Masters,Backlog,None,6.59,8.54
+561,Female,Auditory,Primary School,Backlog,None,8.47,7.83
+562,Male,Visual,Masters,Regular,Completed,6.02,9.0
+563,Male,Auditory,High School,Regular,Completed,5.01,7.35
+564,Male,Visual,Bachelors,Regular,None,5.49,9.95
+565,Male,Visual,Primary School,Backlog,None,7.13,7.49
+566,Female,Visual,Masters,Backlog,Completed,9.91,8.36
+567,Male,Auditory,Primary School,Backlog,Completed,7.67,7.71
+568,Male,Auditory,Bachelors,Backlog,Completed,8.08,8.46
+569,Male,Auditory,Masters,Regular,Completed,6.5,5.05
+570,Male,Auditory,Primary School,Backlog,Completed,6.09,6.24
+571,Male,Auditory,Primary School,Backlog,None,5.74,7.2
+572,Female,Visual,Masters,Regular,Completed,7.87,8.55
+573,Male,Auditory,Primary School,Backlog,Completed,9.49,5.44
+574,Female,Visual,Bachelors,Backlog,None,7.36,8.32
+575,Male,Visual,Masters,Backlog,None,6.36,8.85
+576,Male,Auditory,High School,Backlog,None,5.03,7.04
+577,Male,Visual,Bachelors,Regular,Completed,7.71,5.87
+578,Male,Visual,High School,Backlog,Completed,8.28,6.64
+579,Male,Visual,High School,Backlog,Completed,7.88,5.37
+580,Female,Visual,High School,Backlog,Completed,7.46,6.68
+581,Male,Auditory,Masters,Regular,Completed,8.61,5.79
+582,Female,Auditory,Bachelors,Regular,None,8.34,8.88
+583,Female,Visual,High School,Regular,None,7.04,5.32
+584,Male,Visual,Masters,Regular,None,9.42,6.92
+585,Female,Visual,High School,Regular,None,7.66,6.37
+586,Male,Visual,Bachelors,Regular,None,8.48,9.44
+587,Male,Visual,Bachelors,Backlog,None,5.61,6.21
+588,Female,Auditory,Masters,Regular,None,6.2,6.4
+589,Female,Auditory,Bachelors,Regular,None,6.45,9.03
+590,Male,Visual,Primary School,Regular,Completed,9.61,8.71
+591,Male,Auditory,Primary School,Backlog,None,6.52,6.69
+592,Female,Auditory,Bachelors,Regular,None,6.83,7.0
+593,Male,Visual,Masters,Regular,Completed,9.95,7.4
+594,Female,Visual,Masters,Backlog,Completed,5.01,5.34
+595,Female,Auditory,Bachelors,Regular,None,6.27,5.66
+596,Female,Visual,Primary School,Backlog,None,8.38,7.82
+597,Male,Auditory,Masters,Backlog,Completed,6.85,8.26
+598,Female,Visual,Primary School,Backlog,None,5.08,5.07
+599,Female,Auditory,Primary School,Regular,Completed,6.64,9.72
+600,Female,Auditory,Primary School,Backlog,Completed,9.26,8.69
+601,Female,Visual,High School,Regular,Completed,7.79,6.0
+602,Female,Auditory,Masters,Regular,None,8.37,7.25
+603,Female,Auditory,Bachelors,Regular,None,6.95,9.0
+604,Male,Auditory,Bachelors,Regular,Completed,9.18,5.98
+605,Male,Visual,Bachelors,Regular,Completed,9.4,6.2
+606,Male,Auditory,Bachelors,Backlog,Completed,8.8,5.16
+607,Female,Auditory,Masters,Regular,None,8.75,7.75
+608,Male,Visual,Bachelors,Backlog,None,8.78,5.66
+609,Female,Auditory,Masters,Backlog,None,5.91,5.42
+610,Female,Auditory,Primary School,Regular,Completed,7.62,8.09
+611,Female,Auditory,Bachelors,Backlog,Completed,7.53,7.04
+612,Male,Visual,Primary School,Backlog,None,8.55,6.66
+613,Male,Auditory,Primary School,Backlog,None,9.59,9.64
+614,Female,Auditory,Masters,Regular,None,6.83,8.1
+615,Female,Auditory,Masters,Regular,Completed,9.23,6.39
+616,Male,Visual,Primary School,Backlog,Completed,8.94,9.0
+617,Female,Visual,Primary School,Backlog,Completed,9.41,7.02
+618,Female,Auditory,Primary School,Regular,None,5.92,6.01
+619,Male,Auditory,High School,Regular,None,6.99,5.28
+620,Female,Visual,High School,Backlog,None,9.44,5.58
+621,Male,Visual,Masters,Backlog,Completed,9.2,7.01
+622,Female,Auditory,Masters,Backlog,Completed,9.4,6.46
+623,Male,Visual,Primary School,Backlog,Completed,7.18,7.35
+624,Female,Visual,High School,Regular,None,9.41,7.55
+625,Female,Visual,Primary School,Backlog,None,7.22,5.47
+626,Male,Auditory,Bachelors,Backlog,Completed,9.65,9.59
+627,Male,Auditory,High School,Regular,None,7.71,8.7
+628,Female,Auditory,Bachelors,Regular,None,8.74,5.31
+629,Female,Auditory,Primary School,Regular,Completed,6.94,7.01
+630,Female,Visual,Masters,Regular,Completed,7.5,6.73
+631,Female,Visual,Bachelors,Regular,None,9.77,6.85
+632,Female,Visual,Primary School,Backlog,Completed,9.2,8.06
+633,Female,Auditory,High School,Regular,Completed,7.17,7.43
+634,Male,Visual,Masters,Regular,None,5.02,8.85
+635,Female,Visual,Primary School,Backlog,Completed,7.75,7.44
+636,Female,Auditory,Primary School,Backlog,None,8.89,6.97
+637,Male,Auditory,Masters,Backlog,None,9.88,8.51
+638,Male,Auditory,Masters,Regular,Completed,7.48,6.12
+639,Male,Auditory,High School,Backlog,Completed,6.88,5.58
+640,Male,Auditory,Masters,Regular,Completed,8.1,8.85
+641,Male,Visual,Primary School,Backlog,None,8.71,5.77
+642,Male,Auditory,Primary School,Backlog,None,6.7,5.59
+643,Female,Visual,Masters,Regular,Completed,7.86,8.97
+644,Male,Visual,Primary School,Regular,Completed,7.64,8.4
+645,Male,Auditory,Bachelors,Backlog,None,9.25,7.06
+646,Male,Visual,Bachelors,Regular,Completed,6.18,5.87
+647,Female,Visual,Bachelors,Regular,Completed,5.72,8.15
+648,Male,Visual,High School,Backlog,Completed,6.17,9.83
+649,Male,Auditory,Masters,Backlog,None,9.1,6.65
+650,Female,Visual,High School,Regular,Completed,7.92,7.41
+651,Male,Auditory,Primary School,Backlog,Completed,7.4,7.28
+652,Male,Visual,High School,Backlog,Completed,7.41,6.24
+653,Male,Visual,Bachelors,Backlog,Completed,5.31,5.27
+654,Male,Visual,Bachelors,Regular,None,7.11,5.88
+655,Female,Auditory,Masters,Regular,None,8.57,5.63
+656,Female,Auditory,Masters,Backlog,Completed,5.59,9.93
+657,Female,Visual,High School,Backlog,None,5.64,6.98
+658,Male,Visual,Bachelors,Backlog,Completed,7.84,7.52
+659,Male,Visual,Primary School,Backlog,Completed,8.85,7.72
+660,Male,Visual,Bachelors,Regular,None,8.06,5.74
+661,Male,Auditory,High School,Regular,None,9.03,6.21
+662,Male,Auditory,Bachelors,Backlog,None,9.44,6.09
+663,Female,Auditory,Primary School,Regular,Completed,9.36,6.37
+664,Female,Visual,High School,Regular,Completed,9.36,9.47
+665,Female,Visual,Masters,Backlog,Completed,8.81,9.92
+666,Male,Visual,Primary School,Regular,None,9.74,9.25
+667,Female,Auditory,Masters,Backlog,None,9.27,9.35
+668,Female,Auditory,Primary School,Backlog,None,5.75,6.65
+669,Male,Visual,Masters,Regular,Completed,9.44,8.14
+670,Male,Auditory,High School,Regular,Completed,6.93,6.94
+671,Female,Auditory,Masters,Regular,Completed,8.98,9.0
+672,Male,Visual,Masters,Regular,Completed,9.09,8.64
+673,Female,Visual,Primary School,Backlog,Completed,8.2,8.38
+674,Male,Visual,Primary School,Regular,None,7.2,7.98
+675,Female,Auditory,High School,Backlog,Completed,6.11,9.34
+676,Male,Auditory,Bachelors,Backlog,Completed,7.67,6.91
+677,Male,Auditory,Primary School,Regular,Completed,7.99,8.77
+678,Female,Auditory,Masters,Backlog,Completed,5.84,5.42
+679,Male,Visual,High School,Backlog,None,5.79,9.96
+680,Female,Visual,Bachelors,Backlog,Completed,8.79,6.47
+681,Male,Visual,Primary School,Backlog,None,6.82,5.55
+682,Male,Auditory,Masters,Regular,Completed,6.93,5.65
+683,Male,Visual,Masters,Backlog,None,5.52,9.29
+684,Male,Visual,Primary School,Backlog,Completed,9.68,7.47
+685,Female,Visual,Primary School,Backlog,None,9.46,8.47
+686,Male,Auditory,Masters,Backlog,Completed,5.59,8.72
+687,Male,Visual,Masters,Regular,None,7.46,8.57
+688,Male,Visual,Primary School,Regular,Completed,6.1,8.83
+689,Male,Auditory,Bachelors,Regular,Completed,8.91,6.45
+690,Male,Visual,Masters,Regular,None,7.19,8.51
+691,Male,Auditory,Primary School,Backlog,None,9.16,5.43
+692,Female,Auditory,Bachelors,Backlog,None,7.51,7.89
+693,Male,Visual,Primary School,Backlog,Completed,5.06,5.71
+694,Female,Auditory,Primary School,Regular,None,7.11,8.46
+695,Male,Visual,Primary School,Backlog,Completed,6.73,8.7
+696,Male,Auditory,High School,Regular,Completed,7.78,9.65
+697,Male,Visual,Masters,Regular,Completed,9.74,7.55
+698,Female,Auditory,Masters,Backlog,Completed,9.68,5.84
+699,Male,Visual,Masters,Regular,Completed,7.22,7.04
+700,Female,Visual,High School,Regular,Completed,7.93,7.91
+701,Male,Auditory,High School,Backlog,None,7.08,6.67
+702,Male,Auditory,Masters,Backlog,Completed,5.36,9.62
+703,Male,Visual,Bachelors,Backlog,Completed,7.27,6.09
+704,Female,Auditory,Bachelors,Regular,None,8.38,5.42
+705,Female,Auditory,Masters,Regular,Completed,9.18,8.58
+706,Female,Auditory,Primary School,Regular,Completed,6.65,5.93
+707,Female,Auditory,Masters,Backlog,None,8.81,5.21
+708,Female,Visual,Primary School,Regular,Completed,7.93,5.32
+709,Male,Auditory,Bachelors,Backlog,None,9.28,8.45
+710,Male,Visual,Primary School,Backlog,None,8.61,8.9
+711,Male,Visual,Bachelors,Backlog,Completed,7.74,7.95
+712,Female,Auditory,Masters,Regular,Completed,7.99,7.7
+713,Male,Visual,Masters,Regular,None,9.24,6.54
+714,Female,Visual,Bachelors,Regular,None,7.07,6.79
+715,Female,Visual,Primary School,Backlog,None,7.6,8.37
+716,Female,Visual,Bachelors,Regular,Completed,6.12,5.96
+717,Male,Visual,Bachelors,Backlog,None,6.01,6.22
+718,Female,Auditory,Masters,Regular,Completed,6.16,8.15
+719,Male,Visual,Masters,Backlog,Completed,5.27,8.59
+720,Male,Visual,Primary School,Regular,None,6.71,5.96
+721,Female,Visual,High School,Regular,Completed,6.6,6.39
+722,Male,Auditory,Masters,Backlog,None,5.15,6.06
+723,Female,Auditory,Masters,Backlog,Completed,6.11,9.7
+724,Female,Auditory,Bachelors,Regular,None,8.39,8.19
+725,Male,Auditory,High School,Backlog,Completed,8.05,8.72
+726,Male,Auditory,High School,Backlog,None,9.98,7.1
+727,Female,Visual,Bachelors,Regular,None,7.79,7.32
+728,Male,Visual,Primary School,Backlog,None,6.24,5.57
+729,Female,Visual,High School,Regular,None,7.75,5.79
+730,Male,Auditory,High School,Regular,Completed,7.47,6.69
+731,Female,Auditory,Primary School,Backlog,Completed,5.39,9.05
+732,Male,Visual,High School,Regular,None,7.32,8.31
+733,Female,Visual,High School,Backlog,None,9.2,5.46
+734,Male,Auditory,Primary School,Regular,Completed,5.74,9.02
+735,Male,Visual,Primary School,Regular,Completed,8.52,5.65
+736,Female,Auditory,Primary School,Backlog,Completed,9.85,7.67
+737,Female,Visual,High School,Backlog,Completed,5.1,9.68
+738,Female,Visual,Primary School,Backlog,Completed,8.16,7.26
+739,Male,Visual,Masters,Regular,Completed,6.84,9.98
+740,Male,Auditory,Masters,Regular,Completed,8.7,8.72
+741,Male,Visual,Masters,Backlog,Completed,5.67,5.98
+742,Male,Auditory,Masters,Regular,Completed,5.28,9.24
+743,Female,Auditory,Primary School,Backlog,Completed,5.25,9.87
+744,Female,Visual,Masters,Backlog,None,9.01,8.08
+745,Male,Visual,Bachelors,Regular,None,8.71,6.1
+746,Female,Auditory,High School,Backlog,Completed,9.03,6.48
+747,Female,Visual,Primary School,Regular,None,9.17,8.01
+748,Female,Visual,Masters,Regular,Completed,7.33,7.68
+749,Male,Auditory,High School,Backlog,Completed,9.37,9.03
+750,Female,Visual,High School,Backlog,None,6.16,6.7
+751,Male,Auditory,Masters,Regular,None,5.87,8.49
+752,Male,Visual,Bachelors,Backlog,None,5.58,8.42
+753,Female,Auditory,Bachelors,Backlog,None,5.91,9.19
+754,Male,Visual,Bachelors,Backlog,Completed,7.94,9.6
+755,Male,Visual,High School,Regular,None,8.86,9.05
+756,Male,Auditory,High School,Regular,Completed,5.35,9.3
+757,Male,Visual,Masters,Backlog,Completed,6.24,5.31
+758,Male,Auditory,Bachelors,Regular,Completed,7.73,6.79
+759,Male,Visual,Masters,Regular,Completed,7.24,6.71
+760,Female,Auditory,Masters,Regular,Completed,5.06,8.63
+761,Female,Auditory,High School,Backlog,Completed,7.63,9.97
+762,Female,Auditory,Primary School,Regular,None,7.38,9.94
+763,Female,Visual,High School,Regular,None,9.31,6.75
+764,Male,Auditory,Bachelors,Backlog,Completed,7.22,8.43
+765,Female,Auditory,Bachelors,Backlog,None,5.16,7.69
+766,Female,Visual,Bachelors,Backlog,None,5.54,7.33
+767,Female,Visual,Masters,Regular,Completed,8.0,6.08
+768,Male,Auditory,Primary School,Backlog,None,8.83,9.67
+769,Female,Auditory,High School,Regular,Completed,9.79,9.78
+770,Female,Visual,Masters,Backlog,Completed,5.49,7.32
+771,Female,Visual,Primary School,Backlog,Completed,6.45,6.96
+772,Male,Visual,High School,Regular,Completed,8.03,8.29
+773,Male,Auditory,High School,Regular,None,9.86,8.71
+774,Female,Auditory,Masters,Regular,Completed,7.48,9.78
+775,Male,Auditory,Masters,Backlog,Completed,9.06,9.8
+776,Female,Visual,Primary School,Regular,Completed,5.03,7.39
+777,Female,Visual,High School,Backlog,Completed,9.06,5.47
+778,Female,Auditory,Primary School,Regular,None,9.13,9.55
+779,Male,Auditory,Bachelors,Regular,None,6.81,7.55
+780,Male,Auditory,High School,Backlog,None,5.26,5.51
+781,Female,Auditory,Primary School,Regular,None,9.03,9.5
+782,Male,Auditory,High School,Backlog,None,8.13,7.16
+783,Female,Visual,Masters,Backlog,None,9.2,9.07
+784,Female,Auditory,High School,Backlog,Completed,7.32,7.17
+785,Female,Auditory,Bachelors,Regular,None,5.17,9.03
+786,Male,Auditory,Masters,Backlog,Completed,9.96,8.6
+787,Female,Visual,High School,Regular,Completed,5.28,8.29
+788,Male,Auditory,High School,Regular,Completed,9.6,9.79
+789,Male,Visual,Primary School,Backlog,None,7.93,5.63
+790,Male,Auditory,Primary School,Backlog,Completed,8.74,5.11
+791,Female,Visual,Bachelors,Regular,Completed,9.79,5.05
+792,Male,Auditory,Bachelors,Backlog,None,7.4,8.46
+793,Female,Auditory,Primary School,Backlog,None,5.81,9.35
+794,Female,Visual,Primary School,Backlog,None,5.91,7.04
+795,Male,Visual,Primary School,Regular,Completed,7.5,9.23
+796,Female,Visual,Bachelors,Backlog,Completed,8.62,5.58
+797,Female,Visual,Primary School,Backlog,None,8.89,6.79
+798,Male,Visual,Masters,Backlog,None,6.76,5.05
+799,Male,Visual,Primary School,Regular,None,6.94,9.42
+800,Female,Auditory,Masters,Regular,Completed,6.62,7.21
+801,Male,Auditory,Primary School,Backlog,Completed,8.86,6.22
+802,Male,Visual,Primary School,Regular,Completed,8.72,7.99
+803,Male,Visual,Primary School,Regular,Completed,7.99,7.77
+804,Female,Visual,Primary School,Backlog,Completed,5.36,8.26
+805,Male,Auditory,Primary School,Regular,None,6.02,8.33
+806,Female,Auditory,Masters,Backlog,None,9.27,9.99
+807,Female,Visual,Masters,Backlog,None,6.09,8.97
+808,Female,Visual,Primary School,Regular,None,5.12,5.46
+809,Female,Auditory,High School,Regular,None,6.32,8.7
+810,Male,Visual,Primary School,Backlog,None,9.39,6.91
+811,Female,Visual,Masters,Regular,None,7.55,9.09
+812,Female,Auditory,Bachelors,Backlog,None,6.72,8.46
+813,Male,Visual,Primary School,Backlog,Completed,7.18,9.3
+814,Male,Auditory,High School,Backlog,Completed,8.31,9.45
+815,Male,Visual,High School,Regular,Completed,7.08,8.16
+816,Male,Visual,Masters,Backlog,None,8.86,9.01
+817,Male,Visual,Masters,Backlog,Completed,5.22,8.65
+818,Female,Visual,Bachelors,Backlog,Completed,9.04,7.67
+819,Male,Auditory,High School,Backlog,None,6.6,5.39
+820,Male,Auditory,High School,Regular,Completed,6.83,7.9
+821,Female,Visual,Bachelors,Regular,None,5.55,5.86
+822,Male,Auditory,Primary School,Regular,Completed,7.18,8.26
+823,Female,Visual,Masters,Regular,None,7.67,5.84
+824,Female,Auditory,Primary School,Regular,Completed,6.67,6.92
+825,Female,Visual,High School,Backlog,None,9.14,6.54
+826,Female,Auditory,Masters,Backlog,None,8.81,8.45
+827,Female,Visual,High School,Backlog,None,6.26,7.25
+828,Male,Auditory,Bachelors,Backlog,None,5.76,6.32
+829,Female,Visual,Primary School,Regular,None,7.0,5.92
+830,Female,Auditory,Bachelors,Regular,None,8.32,8.89
+831,Male,Auditory,Masters,Regular,Completed,8.22,6.62
+832,Male,Auditory,Masters,Backlog,Completed,6.42,9.87
+833,Male,Auditory,High School,Backlog,Completed,7.28,9.62
+834,Male,Visual,Masters,Regular,Completed,5.71,6.13
+835,Female,Visual,Masters,Regular,None,9.76,9.39
+836,Female,Auditory,Bachelors,Regular,None,6.52,7.71
+837,Female,Visual,Masters,Regular,Completed,8.18,5.09
+838,Female,Auditory,Primary School,Regular,None,9.73,7.02
+839,Male,Visual,High School,Backlog,None,8.98,8.92
+840,Male,Auditory,High School,Backlog,None,6.68,6.54
+841,Female,Visual,Bachelors,Backlog,None,6.62,8.87
+842,Female,Auditory,Bachelors,Backlog,None,5.28,5.63
+843,Female,Auditory,Masters,Backlog,Completed,6.46,5.19
+844,Female,Auditory,Primary School,Regular,None,7.82,9.3
+845,Female,Auditory,Primary School,Backlog,Completed,5.47,9.75
+846,Female,Visual,High School,Regular,None,6.38,5.53
+847,Male,Auditory,Masters,Regular,Completed,7.2,7.42
+848,Female,Auditory,High School,Backlog,None,7.7,6.07
+849,Female,Auditory,High School,Regular,Completed,9.95,8.89
+850,Female,Visual,Masters,Regular,None,7.94,7.69
+851,Female,Visual,Primary School,Backlog,Completed,7.73,6.39
+852,Female,Auditory,Bachelors,Backlog,None,9.05,8.24
+853,Female,Auditory,Primary School,Regular,None,8.55,5.32
+854,Male,Visual,Bachelors,Regular,None,5.9,5.54
+855,Male,Auditory,Masters,Regular,None,7.03,5.35
+856,Female,Visual,Bachelors,Regular,None,6.24,8.95
+857,Male,Auditory,Masters,Regular,None,7.84,9.71
+858,Male,Visual,Masters,Backlog,None,7.5,7.64
+859,Male,Auditory,High School,Regular,None,5.34,8.54
+860,Male,Auditory,Bachelors,Backlog,Completed,8.14,9.6
+861,Male,Auditory,Primary School,Regular,None,7.12,7.57
+862,Female,Auditory,Primary School,Backlog,Completed,9.02,9.37
+863,Male,Visual,Masters,Regular,None,6.83,6.75
+864,Male,Auditory,Primary School,Backlog,Completed,8.84,7.93
+865,Male,Visual,Primary School,Backlog,None,7.66,6.31
+866,Female,Auditory,Primary School,Backlog,Completed,8.82,5.05
+867,Female,Visual,High School,Backlog,Completed,9.98,5.3
+868,Female,Auditory,High School,Backlog,None,5.7,7.19
+869,Male,Auditory,Primary School,Regular,None,5.17,6.65
+870,Female,Visual,Masters,Regular,Completed,8.23,5.14
+871,Male,Visual,Bachelors,Backlog,None,6.44,7.73
+872,Male,Visual,Bachelors,Regular,Completed,9.52,6.86
+873,Male,Auditory,High School,Backlog,Completed,7.33,8.51
+874,Male,Auditory,Bachelors,Regular,Completed,7.74,5.54
+875,Female,Visual,Primary School,Backlog,Completed,8.98,5.53
+876,Male,Auditory,Bachelors,Backlog,None,7.26,5.13
+877,Male,Visual,Masters,Regular,None,8.85,6.65
+878,Male,Visual,Primary School,Backlog,None,8.07,5.02
+879,Male,Visual,Primary School,Regular,None,8.48,5.19
+880,Male,Visual,High School,Regular,Completed,7.39,7.9
+881,Male,Visual,Bachelors,Regular,None,6.43,6.76
+882,Male,Visual,Primary School,Backlog,Completed,6.27,5.43
+883,Female,Auditory,Masters,Regular,Completed,7.25,5.61
+884,Male,Auditory,Bachelors,Regular,Completed,6.94,5.53
+885,Male,Visual,High School,Backlog,None,5.15,7.99
+886,Female,Auditory,Bachelors,Regular,Completed,7.66,5.65
+887,Female,Auditory,High School,Backlog,Completed,8.48,8.78
+888,Male,Visual,Primary School,Regular,Completed,5.03,7.65
+889,Female,Auditory,Masters,Regular,None,7.47,9.01
+890,Female,Visual,Bachelors,Backlog,Completed,6.98,5.36
+891,Male,Auditory,High School,Regular,Completed,8.17,7.46
+892,Female,Auditory,Primary School,Backlog,Completed,9.9,6.88
+893,Female,Visual,Primary School,Backlog,Completed,7.45,9.56
+894,Female,Auditory,High School,Regular,Completed,5.31,6.11
+895,Female,Auditory,Primary School,Regular,None,5.39,8.44
+896,Male,Auditory,High School,Backlog,Completed,8.47,9.09
+897,Male,Visual,High School,Regular,Completed,8.17,9.73
+898,Male,Auditory,Primary School,Backlog,None,9.37,5.54
+899,Female,Auditory,High School,Regular,Completed,9.83,7.31
+900,Male,Auditory,Masters,Regular,Completed,9.8,9.79
+901,Male,Visual,High School,Regular,None,9.15,8.75
+902,Female,Visual,Primary School,Regular,None,9.7,8.43
+903,Female,Visual,Primary School,Regular,Completed,7.86,6.8
+904,Male,Auditory,High School,Backlog,None,8.02,9.37
+905,Female,Visual,High School,Backlog,None,9.96,7.11
+906,Female,Auditory,Bachelors,Backlog,Completed,8.08,8.47
+907,Male,Visual,Bachelors,Regular,None,9.35,5.09
+908,Male,Visual,Masters,Regular,None,5.22,5.9
+909,Male,Auditory,High School,Backlog,None,6.9,6.6
+910,Female,Visual,Bachelors,Backlog,None,5.95,6.69
+911,Male,Auditory,High School,Regular,None,8.28,9.84
+912,Male,Visual,Bachelors,Regular,None,9.56,6.45
+913,Male,Auditory,High School,Backlog,None,8.84,9.74
+914,Female,Auditory,Primary School,Backlog,None,8.07,8.53
+915,Female,Auditory,Bachelors,Backlog,Completed,8.11,9.01
+916,Male,Auditory,Masters,Backlog,None,6.2,9.1
+917,Male,Auditory,Masters,Regular,None,5.99,5.97
+918,Female,Auditory,Bachelors,Regular,None,7.09,5.22
+919,Male,Visual,Masters,Regular,None,8.03,6.43
+920,Male,Visual,Masters,Backlog,None,5.7,8.17
+921,Female,Visual,Primary School,Regular,None,5.76,8.71
+922,Female,Auditory,Bachelors,Regular,Completed,7.02,7.95
+923,Male,Visual,Bachelors,Backlog,None,9.21,6.75
+924,Female,Visual,High School,Regular,Completed,7.16,5.41
+925,Male,Auditory,Masters,Backlog,Completed,8.53,9.1
+926,Male,Auditory,Bachelors,Regular,None,8.61,8.16
+927,Female,Auditory,High School,Regular,Completed,5.99,8.59
+928,Female,Auditory,Masters,Regular,None,8.17,7.49
+929,Female,Auditory,Bachelors,Backlog,None,8.69,8.02
+930,Female,Auditory,Masters,Backlog,Completed,9.41,8.26
+931,Female,Auditory,Masters,Backlog,None,8.75,6.26
+932,Male,Visual,Primary School,Backlog,None,9.96,6.64
+933,Female,Visual,Primary School,Backlog,Completed,9.74,7.13
+934,Female,Visual,Masters,Backlog,None,9.77,6.75
+935,Male,Visual,Bachelors,Regular,Completed,6.42,7.33
+936,Male,Auditory,Bachelors,Regular,Completed,5.81,6.22
+937,Male,Auditory,Primary School,Regular,Completed,6.49,8.09
+938,Male,Auditory,Bachelors,Regular,Completed,9.08,6.95
+939,Male,Auditory,High School,Regular,None,5.99,9.02
+940,Female,Auditory,Bachelors,Regular,Completed,9.21,9.35
+941,Female,Visual,High School,Regular,None,9.47,6.64
+942,Female,Visual,Bachelors,Backlog,None,7.2,5.87
+943,Male,Auditory,Primary School,Regular,Completed,8.32,5.84
+944,Male,Auditory,Masters,Backlog,None,7.64,6.4
+945,Female,Auditory,Primary School,Regular,None,6.22,7.06
+946,Male,Visual,High School,Regular,Completed,9.13,7.96
+947,Female,Auditory,High School,Backlog,None,8.22,5.78
+948,Female,Visual,High School,Backlog,None,8.91,7.22
+949,Male,Auditory,High School,Backlog,None,6.66,9.16
+950,Male,Visual,Masters,Regular,Completed,6.62,5.48
+951,Male,Auditory,High School,Regular,None,5.26,6.96
+952,Male,Auditory,Primary School,Backlog,None,7.45,8.19
+953,Male,Visual,High School,Regular,Completed,6.05,7.02
+954,Female,Auditory,Primary School,Backlog,None,7.1,6.28
+955,Female,Visual,Bachelors,Backlog,Completed,7.89,8.87
+956,Female,Auditory,Masters,Backlog,None,7.05,8.97
+957,Male,Auditory,High School,Backlog,Completed,5.42,9.76
+958,Female,Visual,Primary School,Backlog,None,5.68,7.94
+959,Female,Auditory,Primary School,Backlog,None,8.56,8.89
+960,Female,Auditory,Masters,Backlog,Completed,5.38,7.87
+961,Male,Visual,Bachelors,Regular,Completed,9.2,8.1
+962,Female,Visual,Bachelors,Backlog,None,8.21,7.2
+963,Male,Auditory,Primary School,Backlog,None,9.87,9.48
+964,Female,Visual,Primary School,Regular,None,6.23,9.74
+965,Female,Visual,Masters,Backlog,None,7.89,8.89
+966,Female,Visual,Masters,Backlog,None,7.75,5.11
+967,Male,Auditory,Primary School,Regular,Completed,6.32,5.81
+968,Female,Auditory,Bachelors,Regular,None,7.25,6.77
+969,Male,Visual,Masters,Regular,Completed,9.25,6.72
+970,Male,Visual,Bachelors,Backlog,Completed,8.61,8.72
+971,Female,Visual,Bachelors,Backlog,Completed,8.99,8.96
+972,Female,Visual,High School,Regular,None,7.67,5.38
+973,Female,Auditory,High School,Regular,None,9.02,6.77
+974,Female,Visual,Primary School,Backlog,Completed,8.62,9.87
+975,Female,Visual,Primary School,Backlog,None,8.39,5.59
+976,Male,Auditory,Bachelors,Backlog,None,6.07,8.75
+977,Male,Visual,Primary School,Regular,None,5.27,9.64
+978,Female,Visual,Bachelors,Regular,None,7.87,5.85
+979,Female,Auditory,Primary School,Backlog,Completed,8.46,7.81
+980,Female,Visual,Primary School,Backlog,Completed,7.85,8.2
+981,Male,Visual,Masters,Backlog,Completed,9.97,8.41
+982,Female,Visual,Primary School,Regular,Completed,6.47,6.83
+983,Female,Auditory,High School,Backlog,None,5.32,7.18
+984,Male,Auditory,Primary School,Backlog,Completed,8.22,6.07
+985,Male,Visual,Bachelors,Regular,Completed,5.92,8.9
+986,Female,Auditory,Primary School,Regular,None,9.93,9.37
+987,Male,Visual,Bachelors,Backlog,Completed,9.63,5.54
+988,Male,Auditory,Bachelors,Regular,Completed,6.53,8.68
+989,Female,Visual,High School,Regular,Completed,5.19,5.44
+990,Male,Visual,Masters,Regular,None,7.93,8.33
+991,Female,Auditory,Primary School,Regular,None,9.82,5.3
+992,Female,Visual,High School,Regular,None,5.32,5.53
+993,Male,Visual,High School,Backlog,None,5.22,9.21
+994,Male,Visual,High School,Regular,None,9.46,9.85
+995,Female,Auditory,Primary School,Regular,None,6.31,5.76
+996,Female,Auditory,Bachelors,Regular,Completed,6.21,8.15
+997,Female,Auditory,Bachelors,Regular,None,9.99,5.52
+998,Male,Auditory,Masters,Backlog,Completed,6.03,5.5
+999,Male,Visual,Bachelors,Regular,None,5.99,7.59
+1000,Male,Auditory,High School,Backlog,Completed,5.27,8.53
+1001,Male,Visual,Bachelors,Backlog,None,5.99,5.91
+1002,Female,Auditory,Primary School,Regular,Completed,6.87,9.43
+1003,Male,Auditory,High School,Backlog,None,7.37,5.5
+1004,Female,Auditory,Masters,Regular,None,8.94,8.4
+1005,Female,Visual,Bachelors,Backlog,Completed,7.75,6.48
+1006,Male,Visual,Bachelors,Regular,Completed,8.68,7.96
+1007,Male,Visual,Masters,Regular,Completed,8.55,7.55
+1008,Female,Visual,Primary School,Regular,Completed,5.9,9.85
+1009,Female,Auditory,High School,Regular,None,6.72,7.85
+1010,Male,Visual,Primary School,Backlog,None,8.31,7.85
+1011,Female,Visual,Primary School,Regular,Completed,6.09,5.2
+1012,Male,Auditory,High School,Regular,Completed,5.95,6.75
+1013,Female,Visual,High School,Regular,Completed,5.37,6.38
+1014,Male,Visual,High School,Backlog,Completed,9.35,7.68
+1015,Female,Visual,Masters,Backlog,None,9.14,8.34
+1016,Male,Visual,High School,Backlog,None,9.44,5.15
+1017,Male,Visual,Bachelors,Regular,Completed,9.93,9.79
+1018,Male,Auditory,Bachelors,Backlog,None,8.46,9.26
+1019,Female,Visual,Masters,Regular,Completed,8.13,7.0
+1020,Female,Visual,High School,Backlog,None,9.78,9.48
+1021,Female,Auditory,Primary School,Backlog,Completed,6.54,5.78
+1022,Female,Auditory,Masters,Regular,None,6.53,8.91
+1023,Female,Auditory,Bachelors,Regular,None,5.84,5.96
+1024,Female,Auditory,High School,Regular,Completed,8.48,5.91
+1025,Male,Auditory,Bachelors,Backlog,None,8.47,5.69
+1026,Male,Visual,Bachelors,Backlog,None,8.18,8.99
+1027,Female,Visual,Primary School,Backlog,None,9.17,9.42
+1028,Male,Visual,Masters,Backlog,Completed,6.85,8.42
+1029,Female,Visual,Primary School,Backlog,Completed,9.32,6.54
+1030,Male,Visual,Bachelors,Backlog,None,8.75,9.2
+1031,Female,Auditory,High School,Regular,Completed,8.77,9.22
+1032,Male,Visual,Masters,Regular,Completed,9.67,9.38
+1033,Male,Visual,Masters,Backlog,None,5.95,7.36
+1034,Male,Auditory,Masters,Regular,Completed,7.68,8.24
+1035,Female,Auditory,Bachelors,Backlog,None,5.3,6.53
+1036,Male,Auditory,Masters,Regular,None,5.66,7.94
+1037,Male,Visual,Masters,Backlog,None,5.43,6.41
+1038,Female,Visual,Primary School,Regular,Completed,7.27,9.7
+1039,Male,Visual,Masters,Backlog,None,9.69,8.53
+1040,Male,Auditory,Primary School,Backlog,Completed,8.95,6.33
+1041,Male,Visual,Primary School,Backlog,Completed,7.16,9.63
+1042,Male,Auditory,Masters,Regular,None,5.09,5.32
+1043,Female,Visual,High School,Regular,None,8.61,9.85
+1044,Male,Visual,Masters,Backlog,None,6.49,8.28
+1045,Male,Auditory,High School,Backlog,Completed,9.1,7.81
+1046,Female,Auditory,Bachelors,Regular,None,7.62,9.63
+1047,Male,Visual,High School,Backlog,Completed,7.55,8.61
+1048,Male,Auditory,Bachelors,Regular,None,5.74,8.86
+1049,Female,Auditory,High School,Regular,Completed,6.02,8.39
+1050,Male,Auditory,High School,Regular,Completed,5.9,9.41
+1051,Male,Auditory,Primary School,Regular,Completed,8.35,9.18
+1052,Male,Visual,Primary School,Regular,None,8.79,7.63
+1053,Male,Visual,Bachelors,Regular,None,8.18,6.28
+1054,Female,Visual,Primary School,Backlog,None,9.66,5.58
+1055,Female,Visual,Masters,Regular,Completed,8.07,5.53
+1056,Male,Auditory,Primary School,Regular,Completed,6.94,8.85
+1057,Female,Auditory,High School,Regular,Completed,7.05,5.6
+1058,Female,Visual,High School,Backlog,Completed,9.14,6.25
+1059,Female,Visual,Bachelors,Backlog,Completed,8.85,9.41
+1060,Female,Visual,Primary School,Regular,Completed,6.37,8.29
+1061,Male,Auditory,Bachelors,Backlog,None,7.3,7.43
+1062,Female,Auditory,Bachelors,Regular,None,8.41,5.01
+1063,Female,Auditory,Primary School,Backlog,Completed,8.32,6.04
+1064,Female,Auditory,Masters,Regular,None,6.7,5.52
+1065,Male,Auditory,Masters,Backlog,Completed,8.31,8.69
+1066,Female,Visual,Bachelors,Regular,Completed,7.95,9.45
+1067,Male,Auditory,High School,Regular,Completed,8.32,8.61
+1068,Female,Visual,High School,Regular,Completed,7.88,8.04
+1069,Male,Visual,Primary School,Regular,None,5.15,5.2
+1070,Male,Visual,Primary School,Backlog,Completed,5.0,5.41
+1071,Female,Visual,Primary School,Backlog,None,6.28,6.64
+1072,Male,Auditory,Masters,Backlog,Completed,9.92,5.95
+1073,Female,Visual,High School,Regular,Completed,6.0,5.2
+1074,Female,Auditory,Masters,Regular,None,7.5,7.78
+1075,Female,Auditory,Bachelors,Regular,Completed,5.24,5.66
+1076,Female,Auditory,Bachelors,Regular,None,5.91,8.86
+1077,Female,Visual,Primary School,Regular,None,6.81,7.04
+1078,Female,Visual,Bachelors,Regular,None,9.65,7.27
+1079,Male,Auditory,High School,Regular,Completed,6.73,9.76
+1080,Female,Visual,Masters,Regular,None,6.05,5.18
+1081,Male,Visual,High School,Backlog,Completed,9.28,6.92
+1082,Female,Auditory,Primary School,Regular,Completed,8.07,7.31
+1083,Male,Visual,Masters,Regular,Completed,9.69,9.73
+1084,Male,Auditory,High School,Backlog,Completed,8.55,8.74
+1085,Female,Auditory,Primary School,Backlog,None,9.97,8.15
+1086,Male,Auditory,Bachelors,Backlog,Completed,9.03,7.95
+1087,Female,Visual,Bachelors,Backlog,None,9.31,9.46
+1088,Male,Visual,Masters,Regular,None,6.76,6.95
+1089,Female,Auditory,Bachelors,Backlog,None,8.47,5.73
+1090,Female,Visual,Masters,Regular,None,7.17,5.84
+1091,Female,Visual,Bachelors,Regular,Completed,6.81,9.68
+1092,Male,Auditory,High School,Backlog,Completed,7.02,9.76
+1093,Male,Auditory,Masters,Regular,None,5.83,6.59
+1094,Male,Visual,Masters,Regular,None,7.09,9.21
+1095,Female,Visual,Primary School,Regular,Completed,7.38,7.13
+1096,Male,Auditory,High School,Backlog,Completed,8.39,9.78
+1097,Female,Auditory,Bachelors,Regular,None,8.7,6.89
+1098,Female,Auditory,High School,Regular,Completed,7.25,6.65
+1099,Male,Auditory,Primary School,Regular,None,8.93,7.76
+1100,Female,Auditory,Masters,Backlog,None,5.14,6.18
+1101,Male,Auditory,High School,Regular,Completed,6.35,6.73
+1102,Female,Visual,Primary School,Backlog,None,7.47,6.42
+1103,Male,Visual,High School,Backlog,Completed,6.86,6.1
+1104,Male,Visual,Bachelors,Backlog,None,7.61,9.23
+1105,Female,Auditory,Primary School,Regular,Completed,7.86,6.25
+1106,Female,Auditory,High School,Backlog,Completed,7.73,5.29
+1107,Female,Visual,Bachelors,Regular,None,5.53,8.84
+1108,Female,Visual,Bachelors,Regular,Completed,5.15,5.31
+1109,Male,Visual,Masters,Regular,Completed,7.58,8.78
+1110,Male,Visual,Bachelors,Backlog,Completed,7.56,9.97
+1111,Female,Auditory,Masters,Backlog,Completed,5.57,9.13
+1112,Female,Auditory,Masters,Regular,None,7.27,6.96
+1113,Female,Auditory,Primary School,Backlog,None,9.54,7.25
+1114,Female,Visual,Masters,Regular,Completed,7.74,6.46
+1115,Female,Visual,Masters,Regular,None,9.37,7.4
+1116,Female,Visual,Primary School,Regular,None,7.05,9.87
+1117,Female,Auditory,Primary School,Backlog,Completed,5.65,6.66
+1118,Male,Visual,Bachelors,Backlog,Completed,7.15,9.93
+1119,Male,Auditory,High School,Backlog,Completed,5.56,9.86
+1120,Female,Auditory,High School,Regular,Completed,8.09,6.67
+1121,Female,Auditory,Masters,Backlog,Completed,7.62,6.89
+1122,Female,Auditory,High School,Regular,None,7.03,5.28
+1123,Female,Visual,Bachelors,Regular,None,8.68,7.15
+1124,Male,Visual,Bachelors,Regular,None,6.12,6.41
+1125,Female,Visual,High School,Regular,Completed,9.55,5.47
+1126,Female,Auditory,Masters,Regular,Completed,7.84,6.85
+1127,Male,Visual,Primary School,Regular,Completed,7.12,8.53
+1128,Female,Auditory,Bachelors,Backlog,None,5.69,7.44
+1129,Male,Auditory,High School,Backlog,Completed,7.93,7.8
+1130,Male,Auditory,Bachelors,Backlog,Completed,5.65,7.99
+1131,Female,Auditory,High School,Backlog,None,7.56,5.63
+1132,Male,Auditory,Masters,Regular,None,6.05,9.02
+1133,Male,Visual,Bachelors,Regular,Completed,6.47,5.01
+1134,Female,Visual,Bachelors,Backlog,None,6.49,5.98
+1135,Male,Visual,Bachelors,Regular,Completed,7.52,5.98
+1136,Male,Visual,Masters,Regular,None,5.99,8.17
+1137,Male,Visual,High School,Backlog,Completed,9.38,5.48
+1138,Male,Visual,High School,Backlog,None,8.14,7.1
+1139,Female,Visual,Bachelors,Regular,None,8.32,5.57
+1140,Female,Visual,Primary School,Regular,None,9.24,5.69
+1141,Female,Auditory,High School,Backlog,None,7.6,7.89
+1142,Male,Auditory,High School,Backlog,None,5.26,7.85
+1143,Male,Visual,Masters,Backlog,Completed,6.01,6.88
+1144,Male,Auditory,Primary School,Backlog,None,5.27,7.34
+1145,Female,Auditory,Masters,Regular,Completed,7.81,8.77
+1146,Male,Visual,Primary School,Backlog,None,7.97,8.45
+1147,Female,Visual,Masters,Regular,None,6.81,9.62
+1148,Female,Visual,High School,Backlog,Completed,9.56,7.44
+1149,Female,Auditory,Bachelors,Backlog,None,7.58,9.71
+1150,Female,Visual,Bachelors,Regular,Completed,7.46,9.5
+1151,Male,Visual,Masters,Regular,Completed,8.43,9.87
+1152,Female,Visual,Primary School,Backlog,None,7.07,6.02
+1153,Female,Auditory,High School,Backlog,Completed,7.56,6.82
+1154,Male,Visual,Primary School,Backlog,None,9.87,9.46
+1155,Female,Auditory,Bachelors,Regular,None,7.87,5.31
+1156,Male,Auditory,Masters,Backlog,None,6.41,9.51
+1157,Male,Auditory,High School,Regular,None,5.12,8.85
+1158,Male,Auditory,Primary School,Backlog,None,9.5,5.48
+1159,Male,Visual,High School,Backlog,None,9.31,8.79
+1160,Female,Auditory,Primary School,Backlog,None,7.22,6.2
+1161,Female,Visual,Primary School,Regular,None,9.61,9.63
+1162,Male,Auditory,Bachelors,Backlog,Completed,7.77,8.02
+1163,Female,Visual,Masters,Regular,Completed,9.88,9.22
+1164,Male,Visual,Primary School,Backlog,Completed,5.7,6.88
+1165,Male,Visual,Primary School,Backlog,None,5.15,8.71
+1166,Female,Auditory,Primary School,Regular,Completed,6.29,5.42
+1167,Male,Visual,Primary School,Regular,Completed,7.59,9.07
+1168,Male,Visual,Bachelors,Regular,Completed,8.3,7.46
+1169,Female,Auditory,High School,Regular,Completed,8.62,7.12
+1170,Female,Auditory,High School,Regular,None,6.28,7.26
+1171,Male,Visual,Bachelors,Backlog,None,6.03,5.67
+1172,Male,Visual,Masters,Backlog,Completed,5.48,9.73
+1173,Female,Auditory,Bachelors,Regular,None,9.21,5.74
+1174,Female,Visual,Primary School,Backlog,None,5.39,9.95
+1175,Female,Auditory,High School,Regular,None,6.26,7.83
+1176,Male,Visual,Bachelors,Regular,None,9.68,6.64
+1177,Male,Visual,Primary School,Regular,Completed,7.99,5.62
+1178,Male,Visual,High School,Backlog,None,5.83,8.43
+1179,Male,Visual,High School,Regular,Completed,5.21,8.11
+1180,Male,Visual,Masters,Backlog,Completed,8.64,7.23
+1181,Male,Auditory,Bachelors,Regular,Completed,6.33,7.09
+1182,Male,Visual,High School,Backlog,None,5.61,8.44
+1183,Male,Visual,Primary School,Regular,None,6.98,7.9
+1184,Male,Visual,Bachelors,Backlog,None,6.03,9.08
+1185,Female,Visual,Bachelors,Regular,Completed,8.93,7.8
+1186,Male,Auditory,Masters,Backlog,None,8.36,6.06
+1187,Male,Auditory,Masters,Regular,None,8.82,9.15
+1188,Male,Visual,Bachelors,Backlog,Completed,5.74,9.73
+1189,Female,Visual,High School,Regular,Completed,6.66,8.9
+1190,Male,Auditory,Bachelors,Backlog,None,5.77,8.68
+1191,Female,Visual,Primary School,Regular,Completed,5.18,9.37
+1192,Male,Visual,Primary School,Regular,Completed,8.03,8.28
+1193,Male,Auditory,High School,Backlog,None,7.91,8.78
+1194,Female,Visual,High School,Regular,None,5.03,5.2
+1195,Male,Visual,Primary School,Backlog,Completed,6.96,6.19
+1196,Female,Auditory,Bachelors,Regular,None,5.59,7.07
+1197,Male,Visual,Bachelors,Backlog,Completed,7.21,9.8
+1198,Male,Visual,Masters,Backlog,None,6.54,9.56
+1199,Female,Auditory,Primary School,Backlog,None,8.11,5.79
+1200,Female,Auditory,Masters,Regular,Completed,6.76,8.93
+1201,Female,Visual,Primary School,Regular,Completed,7.4,7.95
+1202,Female,Auditory,High School,Regular,None,7.93,9.18
+1203,Male,Auditory,High School,Regular,None,9.38,7.14
+1204,Female,Visual,Bachelors,Backlog,Completed,5.67,7.59
+1205,Male,Visual,Masters,Regular,None,5.52,6.69
+1206,Female,Auditory,Primary School,Regular,Completed,9.17,8.33
+1207,Female,Visual,High School,Backlog,Completed,8.29,5.71
+1208,Female,Visual,Masters,Backlog,None,6.54,7.42
+1209,Male,Auditory,Masters,Regular,Completed,5.69,8.54
+1210,Female,Auditory,Primary School,Backlog,Completed,9.68,6.21
+1211,Female,Auditory,Bachelors,Regular,None,7.42,7.37
+1212,Female,Visual,Masters,Regular,Completed,7.28,6.09
+1213,Female,Visual,Primary School,Regular,Completed,8.29,9.18
+1214,Female,Auditory,Bachelors,Backlog,Completed,9.21,5.99
+1215,Male,Visual,Bachelors,Backlog,None,5.45,7.83
+1216,Female,Visual,Masters,Regular,None,9.75,8.42
+1217,Male,Visual,Primary School,Regular,Completed,9.28,5.26
+1218,Female,Visual,High School,Backlog,None,8.45,6.34
+1219,Male,Visual,Bachelors,Regular,None,5.34,5.4
+1220,Female,Visual,Masters,Regular,None,8.32,8.26
+1221,Male,Auditory,High School,Regular,Completed,8.07,8.17
+1222,Female,Visual,Masters,Regular,Completed,8.49,5.89
+1223,Male,Auditory,Bachelors,Regular,None,6.08,5.75
+1224,Male,Auditory,High School,Regular,Completed,8.01,6.06
+1225,Female,Auditory,Bachelors,Regular,Completed,9.01,5.18
+1226,Male,Auditory,Bachelors,Backlog,Completed,9.86,8.52
+1227,Female,Visual,High School,Backlog,None,9.15,7.08
+1228,Female,Auditory,Bachelors,Regular,None,5.88,6.12
+1229,Female,Auditory,Primary School,Backlog,Completed,9.17,8.58
+1230,Male,Auditory,Primary School,Backlog,Completed,7.9,6.25
+1231,Male,Auditory,Masters,Backlog,None,8.98,5.03
+1232,Female,Auditory,High School,Regular,Completed,9.08,6.14
+1233,Female,Auditory,Masters,Backlog,None,9.9,6.14
+1234,Male,Visual,Primary School,Regular,Completed,7.17,5.33
+1235,Female,Visual,Masters,Backlog,None,7.34,8.18
+1236,Female,Visual,Masters,Regular,None,8.63,6.21
+1237,Female,Visual,Bachelors,Backlog,None,5.02,7.87
+1238,Female,Auditory,Masters,Backlog,Completed,9.64,6.48
+1239,Female,Auditory,Primary School,Backlog,Completed,5.28,6.12
+1240,Male,Visual,Primary School,Backlog,None,6.48,6.88
+1241,Male,Visual,Masters,Regular,Completed,6.01,7.97
+1242,Female,Auditory,High School,Regular,None,5.82,9.43
+1243,Male,Auditory,High School,Backlog,Completed,6.15,7.93
+1244,Male,Auditory,Primary School,Regular,None,7.33,8.11
+1245,Male,Auditory,High School,Backlog,Completed,9.34,5.42
+1246,Male,Auditory,High School,Regular,None,8.53,7.43
+1247,Female,Auditory,Bachelors,Regular,Completed,5.05,8.45
+1248,Male,Auditory,Bachelors,Regular,None,9.39,6.54
+1249,Female,Visual,Bachelors,Regular,None,6.32,9.55
+1250,Female,Visual,Bachelors,Backlog,None,9.14,7.1
+1251,Male,Visual,Primary School,Backlog,None,7.88,9.34
+1252,Male,Visual,Masters,Backlog,Completed,7.91,5.04
+1253,Male,Auditory,Primary School,Regular,None,8.81,8.43
+1254,Female,Auditory,Bachelors,Regular,None,9.09,6.24
+1255,Male,Visual,Primary School,Regular,Completed,7.15,5.88
+1256,Male,Auditory,Bachelors,Regular,None,8.09,6.81
+1257,Female,Auditory,Masters,Backlog,None,9.09,5.65
+1258,Male,Auditory,Primary School,Regular,None,6.16,8.96
+1259,Female,Auditory,High School,Backlog,None,9.58,8.51
+1260,Female,Auditory,High School,Regular,Completed,5.22,9.92
+1261,Female,Visual,Masters,Backlog,None,6.52,8.58
+1262,Male,Visual,Bachelors,Regular,None,8.47,9.98
+1263,Female,Visual,Primary School,Backlog,None,8.57,6.43
+1264,Female,Auditory,Bachelors,Regular,None,7.06,8.84
+1265,Male,Visual,Bachelors,Backlog,Completed,7.41,7.81
+1266,Female,Visual,Primary School,Regular,None,8.34,7.18
+1267,Male,Auditory,High School,Backlog,None,5.2,7.41
+1268,Male,Visual,Masters,Regular,Completed,7.7,6.59
+1269,Female,Auditory,Masters,Backlog,None,5.69,8.39
+1270,Female,Visual,High School,Backlog,None,6.84,8.02
+1271,Male,Visual,High School,Regular,Completed,6.44,5.14
+1272,Female,Visual,High School,Backlog,None,7.97,8.74
+1273,Male,Visual,Bachelors,Regular,Completed,8.63,9.36
+1274,Male,Visual,Primary School,Backlog,Completed,7.66,5.2
+1275,Male,Auditory,Bachelors,Regular,None,5.14,9.37
+1276,Female,Auditory,High School,Regular,None,5.53,5.66
+1277,Male,Visual,Primary School,Regular,None,9.92,5.22
+1278,Female,Visual,Bachelors,Backlog,Completed,9.47,7.77
+1279,Female,Visual,Masters,Backlog,None,5.41,8.1
+1280,Female,Visual,High School,Regular,None,5.01,6.54
+1281,Male,Auditory,Masters,Regular,Completed,9.59,5.02
+1282,Female,Visual,Primary School,Regular,None,6.21,8.87
+1283,Female,Auditory,Primary School,Regular,None,9.52,5.96
+1284,Female,Auditory,Bachelors,Regular,Completed,6.91,9.89
+1285,Female,Visual,Bachelors,Backlog,None,8.99,8.45
+1286,Female,Auditory,Bachelors,Regular,None,5.06,8.61
+1287,Male,Visual,Masters,Regular,None,7.13,9.04
+1288,Female,Auditory,Bachelors,Backlog,None,8.84,7.7
+1289,Male,Auditory,Bachelors,Backlog,None,7.99,9.38
+1290,Male,Visual,High School,Regular,Completed,8.09,5.36
+1291,Female,Visual,Bachelors,Regular,Completed,8.35,5.18
+1292,Female,Visual,Bachelors,Regular,Completed,9.57,6.53
+1293,Female,Auditory,High School,Regular,Completed,7.65,6.71
+1294,Male,Visual,Masters,Regular,Completed,7.62,8.74
+1295,Female,Visual,High School,Regular,None,8.51,6.85
+1296,Male,Visual,Masters,Backlog,Completed,5.34,9.24
+1297,Female,Auditory,Masters,Backlog,None,7.47,8.22
+1298,Male,Visual,High School,Backlog,None,9.49,6.94
+1299,Female,Auditory,Masters,Regular,None,9.44,6.26
+1300,Female,Auditory,Primary School,Backlog,Completed,5.81,6.85
+1301,Female,Auditory,Bachelors,Regular,Completed,9.92,5.04
+1302,Male,Visual,Bachelors,Regular,Completed,6.15,5.95
+1303,Male,Visual,Bachelors,Backlog,None,6.56,7.92
+1304,Female,Visual,Primary School,Regular,None,7.08,6.83
+1305,Female,Auditory,Primary School,Regular,Completed,5.2,7.01
+1306,Male,Auditory,High School,Backlog,None,7.63,7.74
+1307,Female,Auditory,High School,Backlog,None,5.23,8.36
+1308,Female,Auditory,Masters,Backlog,None,7.32,5.47
+1309,Male,Visual,Masters,Backlog,None,6.78,6.15
+1310,Male,Visual,Masters,Backlog,Completed,5.53,7.51
+1311,Female,Auditory,Bachelors,Backlog,None,6.02,5.72
+1312,Male,Visual,High School,Backlog,Completed,7.18,5.15
+1313,Male,Auditory,High School,Regular,Completed,8.61,8.82
+1314,Male,Auditory,Bachelors,Regular,Completed,6.62,9.61
+1315,Female,Visual,Bachelors,Regular,Completed,6.66,7.85
+1316,Female,Auditory,High School,Regular,Completed,6.34,5.34
+1317,Female,Auditory,Masters,Regular,None,5.68,5.33
+1318,Female,Visual,Primary School,Regular,None,8.96,7.26
+1319,Female,Auditory,Primary School,Regular,Completed,6.46,9.86
+1320,Female,Visual,High School,Regular,None,9.19,5.94
+1321,Female,Auditory,Primary School,Regular,Completed,8.75,8.58
+1322,Female,Visual,Masters,Backlog,Completed,9.19,8.59
+1323,Female,Visual,Bachelors,Backlog,Completed,9.94,5.26
+1324,Female,Visual,Masters,Regular,None,5.82,8.01
+1325,Female,Auditory,Bachelors,Regular,Completed,9.5,6.73
+1326,Female,Auditory,Masters,Regular,None,5.79,7.91
+1327,Male,Auditory,Primary School,Regular,Completed,5.95,6.7
+1328,Female,Auditory,Bachelors,Backlog,Completed,7.35,9.45
+1329,Male,Auditory,Bachelors,Backlog,None,7.57,8.99
+1330,Female,Visual,Bachelors,Backlog,Completed,6.07,6.9
+1331,Female,Visual,Bachelors,Backlog,None,9.31,7.62
+1332,Female,Auditory,High School,Regular,Completed,5.04,9.43
+1333,Female,Visual,Masters,Regular,None,9.83,9.17
+1334,Female,Auditory,Primary School,Regular,None,7.56,8.74
+1335,Female,Auditory,High School,Regular,None,8.55,6.14
+1336,Male,Visual,High School,Regular,None,9.64,9.75
+1337,Male,Visual,Bachelors,Backlog,Completed,9.14,8.82
+1338,Male,Auditory,High School,Regular,None,7.09,6.41
+1339,Female,Visual,Bachelors,Regular,Completed,8.24,5.84
+1340,Male,Visual,Masters,Backlog,Completed,5.04,6.04
+1341,Female,Auditory,High School,Regular,None,5.98,7.54
+1342,Female,Auditory,Primary School,Regular,None,7.87,7.39
+1343,Female,Auditory,Primary School,Backlog,Completed,8.88,5.56
+1344,Male,Visual,Masters,Backlog,None,8.42,8.2
+1345,Male,Visual,High School,Regular,None,5.98,6.26
+1346,Male,Visual,Bachelors,Regular,Completed,9.72,6.96
+1347,Female,Visual,Masters,Regular,Completed,9.76,5.65
+1348,Female,Visual,Masters,Backlog,None,6.71,7.73
+1349,Male,Visual,Masters,Backlog,Completed,9.07,7.93
+1350,Female,Visual,Primary School,Regular,None,9.06,6.46
+1351,Female,Visual,Primary School,Regular,None,7.56,9.41
+1352,Female,Auditory,Primary School,Regular,None,5.79,6.23
+1353,Female,Visual,Bachelors,Backlog,Completed,5.74,6.25
+1354,Male,Auditory,High School,Backlog,None,6.84,5.1
+1355,Male,Auditory,Masters,Backlog,None,8.22,6.17
+1356,Male,Auditory,Masters,Regular,None,5.66,5.63
+1357,Female,Visual,High School,Regular,None,6.77,7.01
+1358,Female,Auditory,Masters,Regular,Completed,8.84,6.17
+1359,Female,Visual,Bachelors,Backlog,Completed,5.33,9.13
+1360,Female,Auditory,Bachelors,Regular,Completed,9.57,6.6
+1361,Male,Visual,Masters,Backlog,Completed,9.54,5.14
+1362,Male,Auditory,Primary School,Regular,None,5.34,8.3
+1363,Female,Visual,Masters,Regular,None,8.5,5.25
+1364,Male,Visual,Masters,Backlog,None,8.31,7.55
+1365,Male,Visual,High School,Backlog,Completed,6.0,5.76
+1366,Female,Visual,Primary School,Backlog,Completed,7.99,5.94
+1367,Female,Auditory,Primary School,Regular,None,5.49,8.15
+1368,Female,Auditory,Primary School,Regular,None,7.58,6.4
+1369,Male,Visual,Primary School,Regular,Completed,5.83,8.56
+1370,Male,Auditory,Bachelors,Regular,None,9.19,5.86
+1371,Female,Visual,Primary School,Backlog,Completed,7.99,8.37
+1372,Female,Visual,High School,Regular,Completed,7.6,7.24
+1373,Male,Auditory,Masters,Regular,None,5.57,9.51
+1374,Male,Visual,Primary School,Regular,None,9.12,6.81
+1375,Male,Visual,Masters,Regular,Completed,5.23,7.3
+1376,Male,Visual,Primary School,Backlog,Completed,5.2,8.04
+1377,Female,Auditory,High School,Regular,Completed,6.88,7.92
+1378,Male,Visual,Bachelors,Backlog,Completed,6.65,9.73
+1379,Male,Auditory,High School,Regular,Completed,8.39,8.4
+1380,Female,Auditory,High School,Backlog,None,9.62,5.7
+1381,Female,Auditory,High School,Regular,Completed,9.38,8.51
+1382,Female,Auditory,Bachelors,Regular,None,5.79,5.42
+1383,Female,Auditory,Masters,Backlog,Completed,9.42,8.81
+1384,Male,Auditory,Bachelors,Regular,None,7.08,9.25
+1385,Male,Auditory,High School,Regular,None,6.37,6.01
+1386,Male,Visual,Primary School,Regular,Completed,8.51,6.91
+1387,Female,Visual,Primary School,Backlog,None,5.3,7.8
+1388,Female,Visual,Masters,Backlog,Completed,9.02,8.01
+1389,Female,Visual,Masters,Regular,Completed,5.47,6.76
+1390,Male,Auditory,Bachelors,Regular,Completed,5.64,5.92
+1391,Female,Auditory,Bachelors,Regular,Completed,6.66,9.8
+1392,Male,Visual,Masters,Regular,Completed,6.73,9.52
+1393,Female,Visual,Masters,Regular,None,6.74,7.44
+1394,Male,Visual,High School,Regular,Completed,8.51,9.46
+1395,Female,Auditory,High School,Backlog,Completed,9.49,6.74
+1396,Male,Auditory,High School,Regular,None,9.01,7.23
+1397,Female,Auditory,Bachelors,Regular,None,7.86,9.53
+1398,Male,Visual,High School,Regular,None,8.37,8.69
+1399,Female,Visual,Masters,Regular,None,7.51,6.79
+1400,Female,Visual,Primary School,Backlog,None,9.19,7.42
+1401,Male,Visual,High School,Regular,None,5.92,7.38
+1402,Male,Auditory,Primary School,Backlog,Completed,7.53,6.41
+1403,Male,Visual,Masters,Backlog,Completed,7.71,5.02
+1404,Male,Visual,High School,Backlog,Completed,6.54,8.42
+1405,Female,Visual,Masters,Backlog,None,9.02,7.71
+1406,Male,Visual,Masters,Backlog,None,6.33,5.15
+1407,Male,Auditory,Bachelors,Regular,Completed,5.55,6.83
+1408,Male,Auditory,High School,Regular,None,9.5,7.96
+1409,Male,Visual,Bachelors,Backlog,Completed,6.94,8.61
+1410,Male,Visual,High School,Backlog,None,5.78,9.54
+1411,Male,Visual,Primary School,Regular,Completed,8.03,7.83
+1412,Male,Visual,Masters,Backlog,None,7.71,8.59
+1413,Female,Auditory,High School,Regular,None,9.67,8.16
+1414,Female,Auditory,High School,Regular,Completed,5.79,6.31
+1415,Female,Auditory,Primary School,Regular,Completed,9.52,8.81
+1416,Male,Visual,Primary School,Regular,None,7.66,9.73
+1417,Female,Visual,High School,Regular,Completed,9.35,9.0
+1418,Male,Visual,Primary School,Backlog,None,5.44,9.4
+1419,Male,Visual,High School,Backlog,Completed,8.25,9.19
+1420,Female,Auditory,Masters,Backlog,None,6.24,6.86
+1421,Female,Auditory,High School,Regular,Completed,7.63,5.75
+1422,Male,Auditory,Masters,Regular,Completed,9.61,5.18
+1423,Male,Auditory,Bachelors,Regular,None,9.63,9.35
+1424,Female,Auditory,Primary School,Regular,None,8.25,9.02
+1425,Female,Visual,Primary School,Backlog,None,8.21,6.26
+1426,Male,Visual,Masters,Backlog,None,5.96,5.12
+1427,Male,Visual,Primary School,Regular,None,5.73,5.72
+1428,Male,Auditory,Masters,Regular,None,8.56,9.59
+1429,Female,Visual,High School,Backlog,None,5.03,6.22
+1430,Male,Auditory,High School,Backlog,None,5.11,8.29
+1431,Male,Visual,Primary School,Regular,Completed,6.97,5.98
+1432,Female,Auditory,Masters,Backlog,Completed,8.42,5.78
+1433,Female,Auditory,High School,Backlog,None,6.43,7.04
+1434,Female,Visual,Masters,Regular,None,9.73,7.43
+1435,Male,Visual,Masters,Backlog,None,9.25,6.18
+1436,Female,Auditory,Masters,Backlog,None,6.59,8.41
+1437,Female,Visual,High School,Backlog,Completed,5.83,5.63
+1438,Female,Auditory,Bachelors,Regular,None,8.4,8.05
+1439,Male,Auditory,Primary School,Backlog,None,7.54,5.41
+1440,Female,Auditory,High School,Backlog,None,8.85,9.29
+1441,Female,Visual,High School,Regular,Completed,5.4,9.72
+1442,Female,Auditory,Masters,Backlog,None,5.95,9.77
+1443,Female,Auditory,Masters,Regular,None,9.87,9.78
+1444,Female,Auditory,Bachelors,Backlog,Completed,9.34,8.44
+1445,Female,Visual,Primary School,Backlog,Completed,6.96,8.81
+1446,Male,Visual,High School,Backlog,Completed,8.54,9.4
+1447,Male,Auditory,Masters,Regular,None,5.25,7.1
+1448,Female,Auditory,Masters,Regular,None,6.61,8.29
+1449,Female,Visual,Masters,Regular,Completed,7.24,7.13
+1450,Male,Visual,Primary School,Regular,None,7.57,5.89
+1451,Female,Auditory,Bachelors,Backlog,Completed,9.64,6.9
+1452,Female,Auditory,Primary School,Backlog,Completed,5.06,7.43
+1453,Male,Visual,Bachelors,Regular,Completed,6.07,7.0
+1454,Male,Auditory,Primary School,Backlog,None,5.06,8.74
+1455,Female,Visual,Masters,Backlog,Completed,8.5,8.15
+1456,Female,Auditory,Masters,Regular,Completed,6.01,7.02
+1457,Male,Auditory,High School,Backlog,Completed,8.56,8.02
+1458,Male,Auditory,Bachelors,Regular,None,8.1,5.56
+1459,Female,Auditory,High School,Backlog,None,9.95,9.05
+1460,Female,Visual,Bachelors,Regular,Completed,5.57,8.84
+1461,Female,Auditory,High School,Backlog,Completed,5.89,8.44
+1462,Female,Auditory,High School,Backlog,None,7.15,9.19
+1463,Male,Visual,High School,Backlog,Completed,7.37,6.57
+1464,Male,Visual,High School,Backlog,Completed,8.48,9.42
+1465,Male,Visual,High School,Backlog,None,5.79,5.13
+1466,Male,Auditory,Primary School,Regular,Completed,9.85,7.27
+1467,Female,Auditory,Primary School,Regular,Completed,6.49,5.03
+1468,Female,Visual,Primary School,Backlog,Completed,5.04,7.66
+1469,Female,Auditory,High School,Backlog,Completed,5.02,6.66
+1470,Female,Visual,Bachelors,Regular,Completed,8.28,7.07
+1471,Female,Visual,Masters,Backlog,None,5.42,6.24
+1472,Female,Auditory,Masters,Regular,None,9.62,6.76
+1473,Male,Auditory,Bachelors,Regular,None,9.0,9.92
+1474,Female,Auditory,Bachelors,Backlog,None,5.23,7.71
+1475,Female,Visual,Masters,Backlog,None,6.23,7.67
+1476,Male,Visual,Primary School,Regular,None,9.96,7.48
+1477,Female,Visual,Bachelors,Regular,Completed,6.88,7.28
+1478,Female,Auditory,Masters,Regular,Completed,9.73,8.61
+1479,Female,Auditory,High School,Backlog,None,6.31,6.48
+1480,Female,Auditory,High School,Backlog,None,7.7,6.01
+1481,Male,Visual,Masters,Backlog,None,5.79,8.49
+1482,Male,Auditory,High School,Regular,None,7.74,7.49
+1483,Female,Visual,Primary School,Regular,None,9.45,7.36
+1484,Female,Visual,Bachelors,Backlog,Completed,6.75,8.52
+1485,Male,Auditory,Bachelors,Regular,None,7.17,8.66
+1486,Male,Auditory,Primary School,Regular,Completed,7.82,6.49
+1487,Male,Auditory,Masters,Backlog,Completed,8.18,8.96
+1488,Female,Auditory,Bachelors,Regular,Completed,7.96,7.67
+1489,Male,Visual,Primary School,Backlog,None,8.58,7.35
+1490,Male,Auditory,Masters,Regular,None,6.59,9.17
+1491,Male,Auditory,Bachelors,Regular,Completed,5.71,5.99
+1492,Male,Visual,Masters,Backlog,Completed,9.05,6.67
+1493,Male,Auditory,Bachelors,Backlog,Completed,6.93,6.79
+1494,Male,Visual,High School,Backlog,Completed,5.77,7.03
+1495,Female,Auditory,Bachelors,Backlog,Completed,5.59,8.14
+1496,Female,Auditory,Bachelors,Regular,Completed,6.86,7.62
+1497,Female,Visual,Primary School,Backlog,None,8.08,7.04
+1498,Male,Visual,High School,Regular,None,6.82,8.86
+1499,Male,Visual,Bachelors,Regular,Completed,9.67,6.43
+1500,Male,Auditory,High School,Regular,Completed,9.41,6.86
